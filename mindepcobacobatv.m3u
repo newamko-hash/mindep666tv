@@ -16,6 +16,14 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #EXTVLCOPT:http-origin=https://www.vidio.com
 https://ratu77.adptv.workers.dev/index.mpd?id=874&type=dash
 
+#EXTINF:-1 tvg-id="CNBCIndonesia.id@SD" group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cnbcindonesia.png",CNBC Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id@SD" group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cnnindonesia.png",CNN Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="Indonesia",Indosiar HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
