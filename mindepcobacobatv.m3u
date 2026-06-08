@@ -277,10 +277,10 @@ http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10tp
 https://7pal.short.gy/tntspts4
 
 
-#EXTINF:-1 tvg-uid="a02b95965e8d1de56d45a81277fd93ff" data-source="TV_Amrik" tvg-chno="106" tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79027_dark_360w_270h.png" group-title="USA TV",Premier Sports 1
+#EXTINF:-1 tvg-uid="a02b95965e8d1de56d45a81277fd93ff" data-source="TV_Amrik" tvg-chno="106" tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79027_dark_360w_270h.png" group-title="Sports",Premier Sports 1
 http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/376
 
-#EXTINF:-1 tvg-uid="4b1f8d9c6ef937e217b6b5dbb1f4bb1b" data-source="TV_Amrik" tvg-chno="107" tvg-id="Premier.Sports.2.HD.uk" tvg-name="Premier Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109162_dark_360w_270h.png" group-title="USA TV",Premier Sports 2
+#EXTINF:-1 tvg-uid="4b1f8d9c6ef937e217b6b5dbb1f4bb1b" data-source="TV_Amrik" tvg-chno="107" tvg-id="Premier.Sports.2.HD.uk" tvg-name="Premier Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109162_dark_360w_270h.png" group-title="Sports",Premier Sports 2
 http://realsport.scalecdn.co:8080/live/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/89090.ts
 
 #EXTINF:-1 tvg-id="FOX SPORTS.mx"   group-title="Sports", FOX SPORTS 1
