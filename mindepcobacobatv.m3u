@@ -1,6 +1,6 @@
 #EXTM3U
 
-# ===== VIDIO SOURCE =====
+# ===== VID SOURCE =====
 
 #EXTINF:-1 data-source="Manual" group-title="FIFA WORLD CUP 2026" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" tvg-uid="9d5b7e47dc9d44d70733ec87cc3ca99a",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
@@ -385,12 +385,278 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
 
+# ===== cobacoba666 ===== #
+
+#EXTINF:-1 tvg-uid="03ad0d359040ea20ac7d9ee59072192b" data-source="TV_Amrik" tvg-chno="7" tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 x-spion-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLGEBrdnRS7LT4-fqbtjAwdfaeIlNgnoBFtlN6koglMfe3P2MEANaZT1d8uJT-Jd6mZOg4oeZJzHXwPpVdJsvqN2TP1jdnu8hWkhg6MtKQ5XcSGq6B_U9x0-MJ4XhAxq6UZIqxHrVi8r7-IS6_iu5d426iELYPIYhBbUTP5MQXfJtxkpSgg-ksknBoLFvY/s700/GLOBAL%20TREKKER.png" group-title="PREMIUM US hacked 666" x-source="GEulis TV" ,GLOBAL TREEKER
+https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
+#EXTINF:-1 tvg-uid="3b9131fc37d38f1b4aa1d699b7e2136f" data-source="TV_Amrik" tvg-chno="11" tvg-id="BBC.News.(North.America).HD.us2" tvg-name="BBC World News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png" group-title="PREMIUM US hacked 666",BBC World News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-uid="32e79681dc20f5e15804a2849953a1e1" data-source="TV_Amrik" tvg-chno="10" tvg-id="BBC.America.HD.us2" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64492_dark_360w_270h.png" group-title="PREMIUM US hacked 666",BBC America
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-uid="3b9131fc37d38f1b4aa1d699b7e2136f" data-source="TV_Amrik" tvg-chno="11" tvg-id="BBC.News.(North.America).HD.us2" tvg-name="BBC World News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png" group-title="PREMIUM US hacked 666",BBC World News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-uid="fa46ed525e1e7ac23b66c604d95b8b0e" data-source="TV_Amrik" tvg-chno="88" tvg-id="NBC.Sports.Bay.Area.HD.us2" tvg-name="NBC Sports Bay Area" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png" group-title="PREMIUM US hacked 666",NBC Sports Bay Area
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/591.ts
+#EXTINF:-1 tvg-uid="dd4c90d0256fa7eee840850f932959ee" data-source="TV_Amrik" tvg-chno="89" tvg-id="NBC.Sports.Boston.HD.us2" tvg-name="NBC Sports Boston" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49198_dark_360w_270h.png" group-title="PREMIUM US hacked 666",NBC Sports Boston
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/590.ts
+#EXTINF:-1 tvg-uid="d9f183ca983cd8dd4c072d475e46e863" data-source="TV_Amrik" tvg-chno="90" tvg-id="NBC.Sports.California.SAT.us2" tvg-name="NBC Sports California" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45540_dark_360w_270h.png" group-title="PREMIUM US hacked 666",NBC Sports California
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/589.ts
+#EXTINF:-1 tvg-uid="dee463b2588b94edb5d0356b6c20d801" data-source="TV_Amrik" tvg-chno="91" tvg-id="a90a91570ce0536cbb22b591ad7e0da2" tvg-name="NBC Sports NOW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114140_dark_360w_270h.png" group-title="PREMIUM US hacked 666",NBC Sports NOW
+https://jmp2.uk/stvp-USBD420002446
+#EXTINF:-1 tvg-uid="ed991b6e38c97e07538af336ba41faf0" data-source="TV_Amrik" tvg-chno="1" tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="PREMIUM US hacked 666",A&E TV
+http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:-1 tvg-uid="a20cf36de57cf07378eb112b77ca6e7c" data-source="TV_Amrik" tvg-chno="9" tvg-id="AXS.TV.us2" tvg-name="AXS TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28506_dark_360w_270h.png" group-title="PREMIUM US hacked 666",AXS TV
+http://23.239.31.26:8989/axstv/index.m3u8
+#EXTINF:-1 tvg-uid="5dad3f3cfa6f6093098440b2d985b76e" data-source="TV_Amrik" tvg-chno="142" tvg-id="WE.tv.HD.us2" tvg-name="We Tv" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16409_dark_360w_270h.png" group-title="PREMIUM US hacked 666",We Tv
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+#EXTINF:-1 tvg-uid="4d683d49a341f8e9f55ffcfaa0582988" data-source="TV_Amrik" tvg-chno="2" tvg-id="WABC-DT.us_locals1" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="PREMIUM US hacked 666",ABC
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/727.ts
+#EXTINF:-1 tvg-uid="5a2c0b391bd01aa156f1ad32e1b70592" data-source="TV_Amrik" tvg-chno="6" tvg-id="AMC.HD.us2" tvg-name="AMC" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="PREMIUM US hacked 666",AMC
+http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1 tvg-uid="eab2c71d0995249525f73d59e88e5a5f" data-source="TV_Amrik" tvg-chno="87" tvg-id="WNBC-DT.us_locals1" tvg-name="NBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="PREMIUM US hacked 666",NBC
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/729.ts
+#EXTINF:-1 tvg-uid="16d9ef674a7e89b27b319e0689a15280" data-source="TV_Amrik" tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="PREMIUM US hacked 666",ACC Network
+http://23.237.104.106:8080/USA_ACCN/mpegts
+#EXTINF:-1 tvg-uid="fd390efcde323fe4bdf31d8654d66a3b" data-source="TV_Amrik" tvg-chno="20" tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-uid="0b3f218e3e9d2256d8c056ed991ab83e" data-source="TV_Amrik" tvg-chno="49" tvg-id="Food.Network.HD.us2" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44718_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Food Network
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-uid="520fa6008668806c3469c7cde6a61c15" data-source="TV_Amrik" tvg-chno="80" tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="PREMIUM US hacked 666",MLB Network
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/145.ts
+#EXTINF:-1 tvg-uid="20f2ee9ed3a4caf6cbbb282041f9a1f3" data-source="TV_Amrik" tvg-chno="95" tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-network-hz-us.png" group-title="PREMIUM US hacked 666",NFL Network
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-uid="1b8e3d97932ce3d9a7f714d9f69c58fe" data-source="TV_Amrik" tvg-chno="96" tvg-id="NHL.Network.HD.us2" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="PREMIUM US hacked 666",NHL Network
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/299.ts
+#EXTINF:-1 tvg-uid="3dc6ee05c541e43d10c79003ce4f6a95" data-source="TV_Amrik" tvg-chno="109" tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" group-title="PREMIUM US hacked 666",SEC Network
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-uid="0c194571c4944eb566590d475a980aab" data-source="TV_Amrik" tvg-chno="139" tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="PREMIUM US hacked 666",USA Network
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/251.ts
+#EXTINF:-1 tvg-uid="4a67e516800fcf94182d4d36713cff8b" data-source="TV_Amrik" tvg-chno="144" tvg-id="Yes.Network.us2" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="PREMIUM US hacked 666",YES Network
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-uid="0c82c4412cf67412a2aab2399ce52562" data-source="TV_Amrik" tvg-chno="5" tvg-id="Altitude.Sports.us2" tvg-name="Altitude Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44263_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Altitude Sports
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1521.ts
+#EXTINF:-1 tvg-uid="03ad0d359040ea20ac7d9ee59072192b" data-source="TV_Amrik" tvg-chno="7" tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 tvg-uid="3c8ce02a4d2ccb52df9fbba93319c803" data-source="TV_Amrik" tvg-chno="8" tvg-id="ASPiRE.HD.us2" tvg-name="Aspire" tvg-logo="https://i.gyazo.com/0dec42cc5ef48c489cc10db906dc5b9b.png" group-title="PREMIUM US hacked 666",Aspire
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2156.ts
+#EXTINF:-1 tvg-uid="50daff5c82d252da42babf3af7dfb447" data-source="TV_Amrik" tvg-chno="12" tvg-id="BET.HD.us2" tvg-name="BET" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="PREMIUM US hacked 666",BET
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/204.ts
+#EXTINF:-1 tvg-uid="bb0938851778e16ccefc7f0463ca2313" data-source="TV_Amrik" tvg-chno="13" tvg-id="Big.Ten.Network.HD.us2" tvg-name="Big Ten Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56783_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Big Ten Network
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+#EXTINF:-1 tvg-uid="fc6c2d4f3cfa9b9e5727e244fb4a6b3c" data-source="TV_Amrik" tvg-chno="24" tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="PREMIUM US hacked 666",CBS Sports Network
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/197.ts
+#EXTINF:-1 tvg-uid="b2b7356c143194f99b233c33c9d1969c" data-source="TV_Amrik" tvg-chno="14" tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71799_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-uid="45fe4f6d4cc57f637b7ae78596761ee2" data-source="TV_Amrik" tvg-chno="15" tvg-id="Boomerang.us2" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Boomerang
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-uid="1341002876f571283500e99e14bb2af8" data-source="TV_Amrik" tvg-chno="16" tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Bounce TV
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+#EXTINF:-1 tvg-uid="eab1cc610c5cdf99be8c1ff3b9517af2" data-source="TV_Amrik" tvg-chno="76" tvg-id="ION.Television.HD.us2" tvg-name="ION TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="PREMIUM US hacked 666",ION TV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/809.ts
+#EXTINF:-1 tvg-uid="cbf48a0e29bb3df4f1ad0400cbe148c9" data-source="TV_Amrik" tvg-chno="17" tvg-id="Bravo.HD.us2" tvg-name="Bravo TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Bravo TV
+http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1 tvg-uid="5e6ddbb3ee6288a99538c919257ae35d" data-source="TV_Amrik" tvg-chno="18" tvg-id="BUZZR.Stream.us2" tvg-name="Buzzr" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s93430_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Buzzr
+https://buzzrota-web.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-uid="ef6836155541d700871604b1cf772ad2" data-source="TV_Amrik" tvg-chno="19" tvg-id="CSPAN.us2" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="PREMIUM US hacked 666",C-SPAN
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1184.ts
+#EXTINF:-1 tvg-uid="9b80252ddb8426463ba9fc77005cd0e7" data-source="TV_Amrik" tvg-chno="21" tvg-id="WBZ-DT.us_locals1" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="PREMIUM US hacked 666",CBS
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1852.ts
+#EXTINF:-1 tvg-uid="744908f4f7de4469478fc820bc87eb07" data-source="TV_Amrik" tvg-chno="128" tvg-id="TBS.HD.us2" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="PREMIUM US hacked 666",TBS
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-uid="b120646c2854a3af557b19c893d8da31" data-source="TV_Amrik" tvg-chno="22" tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News 24/7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104846_dark_360w_270h.png" group-title="PREMIUM US hacked 666",CBS News 24/7
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-uid="a44cf0b5452edcca9e0597bc50f6d6f2" data-source="TV_Amrik" tvg-chno="45" tvg-id="ESPNEWS.HD.us2" tvg-name="ESPN News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="PREMIUM US hacked 666",ESPN News
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/134.ts
+#EXTINF:-1 tvg-uid="c03b18dc29b4566099a585e79bb846cd" data-source="TV_Amrik" tvg-chno="23" tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-name="CBS Sports Golazo Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s133691_dark_360w_270h.png" group-title="PREMIUM US hacked 666",CBS Sports Golazo Network
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+#EXTINF:-1 tvg-uid="1858eef797c0c136261c91cbb6d73486" data-source="TV_Amrik" tvg-chno="25" tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1 tvg-uid="03f10fef8c1efb65614c94d15769c596" data-source="TV_Amrik" tvg-chno="26" tvg-id="CMT.HD.us2" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="PREMIUM US hacked 666",CMT
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:-1 tvg-uid="6bfca52c8fb133437ce97410ea03ce8b" data-source="TV_Amrik" tvg-chno="84" tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="PREMIUM US hacked 666",MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1 tvg-uid="c743329f79fddba2011312acb8f3ebee" data-source="TV_Amrik" tvg-chno="27" tvg-id="CNBC.HD.us2" tvg-name="CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="PREMIUM US hacked 666",CNBC
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/192.ts
+#EXTINF:-1 tvg-uid="ad88f50f22fc501f856f0faf0d303ea0" data-source="TV_Amrik" tvg-chno="83" tvg-id="MSNBC.HD.us2" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="PREMIUM US hacked 666",MSNBC
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/143.ts
+#EXTINF:-1 tvg-uid="b6e20c63108117fd911e73c3a36ad9b6" data-source="TV_Amrik" tvg-chno="28" tvg-id="CNN.HD.us2" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="PREMIUM US hacked 666",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-uid="5cf87701c8a1d7e0797656f9b9e4aca2" data-source="TV_Amrik" tvg-chno="29" tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-uid="3099a40b791f6be1b65288594ffcc046" data-source="TV_Amrik" tvg-chno="30" tvg-id="Comedy.TV.HD.us2" tvg-name="Comedy TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82470_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Comedy TV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1459.ts
+#EXTINF:-1 tvg-uid="50fe6a54a9ee3691eb210db19f15fe92" data-source="TV_Amrik" tvg-chno="31" tvg-id="Comet.us2" tvg-name="Comet TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97051_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Comet TV
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+#EXTINF:-1 tvg-uid="4510f4dee64949d9f71fb77f8947c427" data-source="TV_Amrik" tvg-chno="141" tvg-id="Vice.HD.us2" tvg-name="Vice TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Vice TV
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+#EXTINF:-1 tvg-uid="71a5f1da252b47ece2401879867fc426" data-source="TV_Amrik" tvg-chno="32" tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Cooking Channel
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
+#EXTINF:-1 tvg-uid="ba50baf42e5dc6ae79bcea2d939bd242" data-source="TV_Amrik" tvg-chno="41" tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Disney Channel
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/180.ts
+#EXTINF:-1 tvg-uid="6df8250ea930308cb038f3f3c5fa9aaa" data-source="TV_Amrik" tvg-chno="63" tvg-id="Golf.Channel.HD.us2" tvg-name="Golf Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Golf Channel
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/138.ts
+#EXTINF:-1 tvg-uid="215f263a88a772eb22e298e9e00863f8" data-source="TV_Amrik" tvg-chno="100" tvg-id="Outdoor.Channel.HD.us2" tvg-name="Outdoor Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Outdoor Channel
+http://23.237.104.106:8080/USA_OUTDOOR/mpegts
+#EXTINF:-1 tvg-uid="bcab09a78d8929cfb92b06e4c367eb59" data-source="TV_Amrik" tvg-chno="35" tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime & Investigation Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61469_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Crime & Investigation Network
+http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
+#EXTINF:-1 tvg-uid="e2e0b547abca45098d5c89e4aee8fb29" data-source="TV_Amrik" tvg-chno="36" tvg-id="KTLA-DT.us_locals1" tvg-name="CW" tvg-logo="https://i.gyazo.com/afd5b481b327d204087dfde6a7741f9d.png" group-title="PREMIUM US hacked 666",CW
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1086.ts
+#EXTINF:-1 tvg-uid="0c13e95ef23221b25d78a00acc1609f6" data-source="TV_Amrik" tvg-chno="37" tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Discovery Channel
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-uid="b425e08a6a8080adb748ba2a1936eba5" data-source="TV_Amrik" tvg-chno="38" tvg-id="Discovery.Family.Channel.HD.us2" tvg-name="Discovery Family Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Discovery Family Channel
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/183.ts
+#EXTINF:-1 tvg-uid="d87e8619f22816c5e10d9d1f6727b9c3" data-source="TV_Amrik" tvg-chno="39" tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Discovery Life
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/182.ts
+#EXTINF:-1 tvg-uid="f11d6c669a27a3a13c42af2eba640994" data-source="TV_Amrik" tvg-chno="40" tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Discovery Science
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/181.ts
+#EXTINF:-1 tvg-uid="5400877b5ec3142d98818030afd3197d" data-source="TV_Amrik" tvg-chno="58" tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70253_dark_360w_270h.png" group-title="PREMIUM US hacked 666",FX Movie Channel
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/166.ts
+#EXTINF:-1 tvg-uid="4dbd7562360673b4d1955dc215679170" data-source="TV_Amrik" tvg-chno="72" tvg-id="History.HD.us2" tvg-name="History Channel" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87679_dark_360w_270h.png" group-title="PREMIUM US hacked 666",History Channel
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/153.ts
+#EXTINF:-1 tvg-uid="ed47b41f900052284d31734c2ddaacce" data-source="TV_Amrik" tvg-chno="116" tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Sony Movie Channel
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1217.ts
+#EXTINF:-1 tvg-uid="ea00a34dc22b255e21a721916fdd5131" data-source="TV_Amrik" tvg-chno="42" tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-uid="f44e84928a8698604fdc109d528c3978" data-source="TV_Amrik" tvg-chno="43" tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! Entertainment" tvg-logo="https://i.gyazo.com/f73b80e3eb56cec06df6705d00e2f422.png" group-title="PREMIUM US hacked 666",E! Entertainment
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1 tvg-uid="564716f825e0b7408d0586ffca0ec4b0" data-source="TV_Amrik" tvg-chno="44" tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="PREMIUM US hacked 666",ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 tvg-uid="1ba2123e6ed37d45df44dcfa067450a5" data-source="TV_Amrik" tvg-chno="46" tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="PREMIUM US hacked 666",ESPN U
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 tvg-uid="8ecfcdaae27f18e25d15a3cce8ca7728" data-source="TV_Amrik" tvg-chno="47" tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="PREMIUM US hacked 666",ESPN2
+http://41.223.30.230/ESPN2/index.m3u8
+#EXTINF:-1 tvg-uid="c30dd79af87a806f86a20a4e8e142dc8" data-source="TV_Amrik" tvg-chno="93" tvg-id="New.England.Sports.Network.HD.us2" tvg-name="NESN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35038_dark_360w_270h.png" group-title="PREMIUM US hacked 666",NESN
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/890.ts
+#EXTINF:-1 tvg-uid="d84fc200e067679abb85a3352d536751" data-source="TV_Amrik" tvg-chno="48" tvg-id="plex.tv.FIFA+.plex" tvg-name="FIFA+ TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s136235_dark_360w_270h.png" group-title="PREMIUM US hacked 666",FIFA+ TV
+https://jmp2.uk/stvp-IN270000230
+#EXTINF:-1 tvg-uid="43c62128f70f1686c5e5bb11c757b355" data-source="TV_Amrik" tvg-chno="60" tvg-id="FYI.Channel.HD.us2" tvg-name="FYI TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16834_dark_360w_270h.png" group-title="PREMIUM US hacked 666",FYI TV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/164.ts
+#EXTINF:-1 tvg-uid="3492daf4147a5e3b5fd9a7326dee255b" data-source="TV_Amrik" tvg-chno="50" tvg-id="WNYW-DT.us_locals1" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Fox
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/728.ts
+#EXTINF:-1 tvg-uid="5470fdd2221efb0f9081544eb94596df" data-source="TV_Amrik" tvg-chno="57" tvg-id="FX.HD.us2" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="PREMIUM US hacked 666",FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1 tvg-uid="7a92cf2048f3812eb6109701c858de34" data-source="TV_Amrik" tvg-chno="59" tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png" group-title="PREMIUM US hacked 666",FXX
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:-1 tvg-uid="68ddebf32cffbfd0ff5e1f92f3f38d18" data-source="TV_Amrik" tvg-chno="51" tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Fox Business
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+#EXTINF:-1 tvg-uid="5e17f76343091f8c36957f0cea32aa22" data-source="TV_Amrik" tvg-chno="52" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Fox News
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/267.ts
+#EXTINF:-1 tvg-uid="5ab6856bda10e7a2d8e5497b50071ab1" data-source="TV_Amrik" tvg-chno="53" tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Fox Sports 1
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/263.ts
+#EXTINF:-1 tvg-uid="12352de08094d2667b6a8a4ccc332225" data-source="TV_Amrik" tvg-chno="54" tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Fox Sports 2
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/264.ts
+#EXTINF:-1 tvg-uid="ec4acb7961979824a93879bc9723cc94" data-source="TV_Amrik" tvg-chno="55" tvg-id="Freeform.HD.us2" tvg-name="Freeform TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Freeform TV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/170.ts
+#EXTINF:-1 tvg-uid="836d048bfcb283829e319093e39c05a8" data-source="TV_Amrik" tvg-chno="56" tvg-id="Fuse.HD.us2" tvg-name="FUSE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="PREMIUM US hacked 666",FUSE
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:-1 tvg-uid="72dac5d2b0897b6b099e4235d3d8f81a" data-source="TV_Amrik" tvg-chno="61" tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Game Show Network
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/358.ts
+#EXTINF:-1 tvg-uid="f0facbf830d0555488aabdd4bbeb4ad8" data-source="TV_Amrik" tvg-chno="79" tvg-id="Marquee.Sports.Network.HD.us2" tvg-name="Marquee Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113768_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Marquee Sports Network
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1045.ts
+#EXTINF:-1 tvg-uid="0696968a0d9bc6ea82c6bf7a05db8bd5" data-source="TV_Amrik" tvg-chno="117" tvg-id="Space.City.Home.Network.HD.us2" tvg-name="Space City Home Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77744_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Space City Home Network
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1276.ts
+#EXTINF:-1 tvg-uid="8ffb4c6908a82c8713203e4ed59882a0" data-source="TV_Amrik" tvg-chno="62" tvg-id="get.us2" tvg-name="getTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82563_dark_360w_270h.png" group-title="PREMIUM US hacked 666",getTV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/45830.ts
+#EXTINF:-1 tvg-uid="ff16c9b243cf774a49dcfb3378d0bc02" data-source="TV_Amrik" tvg-chno="64" tvg-id="Grit.us2" tvg-name="Grit TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89922_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Grit TV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/734.ts
+#EXTINF:-1 tvg-uid="ae4318d4c6e837eec30dd4612bd74437" data-source="TV_Amrik" tvg-chno="65" tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Hallmark Channel
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:-1 tvg-uid="d40ab49b843681d0c6595ff9f55da289" data-source="TV_Amrik" tvg-chno="66" tvg-id="Hallmark.Family.us2" tvg-name="Hallmark Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105723_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Hallmark Family
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/356.ts
+#EXTINF:-1 tvg-uid="6c0cea6e0293ca3eb51d6cbf2adf32a2" data-source="TV_Amrik" tvg-chno="67" tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mystery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61522_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Hallmark Mystery
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/161.ts
+#EXTINF:-1 tvg-uid="f90f93c8bef28fe7788148cb1fb30605" data-source="TV_Amrik" tvg-chno="68" tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="PREMIUM US hacked 666",HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1 tvg-uid="03097e6f946bd148e611550b9eccb0d7" data-source="TV_Amrik" tvg-chno="69" tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="PREMIUM US hacked 666",HBO 2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 tvg-uid="a74e8d9c1b5a95590946a5bad48e4c25" data-source="TV_Amrik" tvg-chno="70" tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="PREMIUM US hacked 666",HBO Comedy
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-uid="7e9d1af1bb021eb303f2b7092b8aee9f" data-source="TV_Amrik" tvg-chno="71" tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="PREMIUM US hacked 666",HBO Zone
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-uid="fb93610b2d9e2d4b933d4b57e64c84f1" data-source="TV_Amrik" tvg-chno="73" tvg-id="HLN.HD.us2" tvg-name="HLN TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="PREMIUM US hacked 666",HLN TV
+http://23.237.104.106:8080/USA_HLN/index.m3u8
+#EXTINF:-1 tvg-uid="cb28eaae5df50050827c4935b4835657" data-source="TV_Amrik" tvg-chno="74" tvg-id="INSP.HD.us2" tvg-name="INSP" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11066_dark_360w_270h.png" group-title="PREMIUM US hacked 666",INSP
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/895.ts
+#EXTINF:-1 tvg-uid="1dab60d98fd608173c380acefabc9acd" data-source="TV_Amrik" tvg-chno="75" tvg-id="Investigation.Discovery.HD.us2" tvg-name="Investigation Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Investigation Discovery
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/150.ts
+#EXTINF:-1 tvg-uid="53c3638aa320531f82ed5b00b89187c9" data-source="TV_Amrik" tvg-chno="77" tvg-id="Lifetime.HD.us2" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Lifetime
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/148.ts
+#EXTINF:-1 tvg-uid="c74b590374f8829403de506b56180d21" data-source="TV_Amrik" tvg-chno="78" tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Lifetime Movie Network
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:-1 tvg-uid="1127a46e32d1063df9a08e1886b4eec9" data-source="TV_Amrik" tvg-chno="81" tvg-id="MOTORTREND.HD.us2" tvg-name="MotorTrend TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" group-title="PREMIUM US hacked 666",MotorTrend TV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/250.ts
+#EXTINF:-1 tvg-uid="f63262405af1daa24f260517280ce56d" data-source="TV_Amrik" tvg-chno="82" tvg-id="MSG.National.us2" tvg-name="MSG" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10979_dark_360w_270h.png" group-title="PREMIUM US hacked 666",MSG
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:-1 tvg-uid="6c2bd302cf86641d4526f3519ec2fff5" data-source="TV_Amrik" tvg-chno="85" tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="PREMIUM US hacked 666",National Geographic
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:-1 tvg-uid="4a00ba9c2a6e1bee00fca0fd4e0cdef0" data-source="TV_Amrik" tvg-chno="94" tvg-id="NewsNation.us2" tvg-name="NewsNation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91096_dark_360w_270h.png" group-title="PREMIUM US hacked 666",NewsNation
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/45839.ts
+#EXTINF:-1 tvg-uid="f117d60d3b7ee04e1e95dbe1618e9238" data-source="TV_Amrik" tvg-chno="97" tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Nick Jr
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/351.ts
+#EXTINF:-1 tvg-uid="94c4d72478b32618ac560b3625c9d4b8" data-source="TV_Amrik" tvg-chno="98" tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-uid="8b5ca5022d8f94d15a87f38d28289507" data-source="TV_Amrik" tvg-chno="99" tvg-id="Nicktoons.us2" tvg-name="Nicktoons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Nicktoons
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1223.ts
+#EXTINF:-1 tvg-uid="16bfd17ce9e72344697c93ca3a16ca21" data-source="TV_Amrik" tvg-chno="101" tvg-id="Ovation.HD.us2" tvg-name="Ovation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15807_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Ovation
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/45840.ts
+#EXTINF:-1 tvg-uid="e01a9882ee4ac7738979afed2597640a" data-source="TV_Amrik" tvg-chno="102" tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen" tvg-logo="https://i.gyazo.com/68db5ec4dba40181592406e7c3128fc7.png" group-title="PREMIUM US hacked 666",Oxygen
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/228.ts
+#EXTINF:-1 tvg-uid="24cc638b726bb71e8b288a6f85ec5ef2" data-source="TV_Amrik" tvg-chno="103" tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-uid="305462dfe416daa5b26b749c2cdbf772" data-source="TV_Amrik" tvg-chno="104" tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101364_dark_360w_270h.png" group-title="PREMIUM US hacked 666",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-uid="e6ca9ee542e6c3a8ab379b2ad96f7eaa" data-source="TV_Amrik" tvg-chno="105" tvg-id="POP.HD.us2" tvg-name="Pop TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16715_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Pop TV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/226.ts
+#EXTINF:-1 tvg-uid="f23a09a462338c52e101fa34b40f43e3" data-source="TV_Amrik" tvg-chno="108" tvg-id="ReelzChannel.HD.us2" tvg-name="Reelz Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68385_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Reelz Channel
+http://23.237.104.106:8080/USA_REELZ/index.m3u8
+#EXTINF:-1 tvg-uid="b405b4a7a802c40639e49f8b4a763c90" data-source="TV_Amrik" tvg-chno="129" tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60316_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Tennis Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1 tvg-uid="56d8ed46f583b59ffb50759220962511" data-source="TV_Amrik" tvg-chno="110" tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="PREMIUM US hacked 666",Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-uid="dd934fcf7fa81cce637d978e1982b6b8" data-source="TV_Amrik" tvg-chno="111" tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Showtime Extreme
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/385.ts
+#EXTINF:-1 tvg-uid="4fe16f77523560499b8ee8043929f56c" data-source="TV_Amrik" tvg-chno="112" tvg-id="Sky.Sports.Football.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104327_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Sky Sports Football
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2166.ts
+#EXTINF:-1 tvg-uid="ef34c8ebc0991f7268728bb91488931e" data-source="TV_Amrik" tvg-chno="113" tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027JYG2.png_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Sky Sports News
+http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/416
+#EXTINF:-1 tvg-uid="dd2a03c0b71b9ff1d6bb8bacbc17d48d" data-source="TV_Amrik" tvg-chno="114" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89362_gray_360w_270h.png" group-title="PREMIUM US hacked 666",Sky Sports Premier League
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2165.ts
+#EXTINF:-1 tvg-uid="cb8be9b8a4479cb628cae77c18f3913a" data-source="TV_Amrik" tvg-chno="115" tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58532_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Smithsonian Channel
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/46810.ts
+#EXTINF:-1 tvg-uid="f2d23b34f495af0a55be6d9ad1622e8f" data-source="TV_Amrik" tvg-chno="120" tvg-id="Sportsman.Channel.us2" tvg-name="Sportsman Channel" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33930_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Sportsman Channel
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/54385.ts
+#EXTINF:-1 tvg-uid="b50eeceaaee1c49bbcdb4b52b6e475a8" data-source="TV_Amrik" tvg-chno="118" tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-name="Spectrum SportsNet LA Dodgers" tvg-logo="https://i.gyazo.com/765cce528ddda366695bb178d9dee6da.png" group-title="PREMIUM US hacked 666",Spectrum SportsNet LA Dodgers
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1609.ts
+#EXTINF:-1 tvg-uid="00f00b27ce07f06a35209dd0ae6de289" data-source="TV_Amrik" tvg-chno="119" tvg-id="Spectrum.SportsNet.Lakers.HD.us2" tvg-name="Spectrum SportsNet Lakers" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77422_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Spectrum SportsNet Lakers
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/873.ts
+#EXTINF:-1 tvg-uid="cd7dcf260f52a4482c57e82e3ecfe334" data-source="TV_Amrik" tvg-chno="121" tvg-id="Sportsnet.360.HD.ca2" tvg-name="Sportsnet 360" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Sportsnet 360
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2044.ts
+#EXTINF:-1 tvg-uid="96793ab18734887e1c47a271426f8780" data-source="TV_Amrik" tvg-chno="122" tvg-id="Sportsnet.East.ca2" tvg-name="Sportsnet East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62109_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Sportsnet East
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2045.ts
+#EXTINF:-1 tvg-uid="d677afc1d9b86b707062f7a8055907cd" data-source="TV_Amrik" tvg-chno="124" tvg-id="Sportsnet.One.ca2" tvg-name="Sportsnet One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68859_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Sportsnet One
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2046.ts
+#EXTINF:-1 tvg-uid="ba4d076a5727e40444cb1199b470edc9" data-source="TV_Amrik" tvg-chno="123" tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="SportsNet New York" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50038_dark_360w_270h.png" group-title="PREMIUM US hacked 666",SportsNet New York
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/330.ts
+#EXTINF:-1 tvg-uid="f344a161fee2bd5e8215d938ce708968" data-source="TV_Amrik" tvg-chno="125" tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1 tvg-uid="1cf67a73e83e5a3025e877a776e83f74" data-source="TV_Amrik" tvg-chno="126" tvg-id="Starz.Encore.Classic.us2" tvg-name="Starz Encore Classic" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14764_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Starz Encore Classic
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1471.ts
+#EXTINF:-1 tvg-uid="91e71bed80cfe2d2a0a33b6d5474d012" data-source="TV_Amrik" tvg-chno="127" tvg-id="Syfy.HD.us2" tvg-name="Syfy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Syfy
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 tvg-uid="cee6eefe3ed1ef995d8acb41100b38f4" data-source="TV_Amrik" tvg-chno="130" tvg-id="The.Weather.Channel.HD.us2" tvg-name="The Weather Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="PREMIUM US hacked 666",The Weather Channel
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/301.ts
+#EXTINF:-1 tvg-uid="d9273059077e7b16048bcfc9272c64b0" data-source="TV_Amrik" tvg-chno="131" tvg-id="TLC.HD.(US).us2" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="PREMIUM US hacked 666",TLC
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/241.ts
+#EXTINF:-1 tvg-uid="5c297e1a474a5ecb895b375a998a3113" data-source="TV_Amrik" tvg-chno="132" tvg-id="TNT.HD.us2" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="PREMIUM US hacked 666",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-uid="87c37b4ed2f36815c28e2398253bb29d" data-source="TV_Amrik" tvg-chno="136" tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="PREMIUM US hacked 666",Turner Classic Movies
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-uid="91a1ecbead519c2c617f5a5d3ef2324f" data-source="TV_Amrik" tvg-chno="137" tvg-id="TV.Land.HD.us2" tvg-name="TV Land" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_dark_360w_270h.png" group-title="PREMIUM US hacked 666",TV Land
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/300.ts
+#EXTINF:-1 tvg-uid="79cd252a250d531ed78410c8bdc271f1" data-source="TV_Amrik" tvg-chno="140" tvg-id="VH1.HD.us2" tvg-name="VH1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="PREMIUM US hacked 666",VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
 
 
-
-
-
-
-# ===== LIVE EVENT =====
-
-# ===== UPCOMING EVENT =====
+# ===== LIVE EVENT ===== 
