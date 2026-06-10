@@ -506,9 +506,9 @@ http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/112728
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD Script UK" tvg-logo="" group-title="PREMIUM SPORTS mindep666"
 http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/112727
 
-#EXTINF:-1 tvg-uid="fc6c2d4f3cfa9b9e5727e244fb4a6b3c" data-source="TV_Amrik" tvg-chno="24" tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="US/UK tracked by 666",CBS Sports Network
+#EXTINF:-1 tvg-uid="fc6c2d4f3cfa9b9e5727e244fb4a6b3c" data-source="TV_Amrik" tvg-chno="24" tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="PREMIUM SPORTS mindep666",CBS Sports Network
 http://cdn1host.online:2999/live/bongus/35zqYxrbg0/197.ts
-#EXTINF:-1 tvg-uid="c03b18dc29b4566099a585e79bb846cd" data-source="TV_Amrik" tvg-chno="23" tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-name="CBS Sports Golazo Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s133691_dark_360w_270h.png" group-title="US/UK tracked by 666",CBS Sports Golazo Network
+#EXTINF:-1 tvg-uid="c03b18dc29b4566099a585e79bb846cd" data-source="TV_Amrik" tvg-chno="23" tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-name="CBS Sports Golazo Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s133691_dark_360w_270h.png" group-title="PREMIUM SPORTS mindep666",CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUdL8HE4KYHPSgzpZrLAoCMLFQNLbqtjc3WvjfsbdMDFHYyJ8XMknX0WU&s=10" group-title="PREMIUM SPORTS mindep666",BEIN SPORTS 1 ID
