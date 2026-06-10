@@ -493,18 +493,25 @@ https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d
 https://7pal.short.gy/tsn4ca
 
 
-#EXTINF:-1 tvg-id="TNT Sports 1 HD UK" tvg-name="TNT Sports 1 HD VIP UK" group-title="PREMIUM SPORTS mindep666"
-http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/10813
-#EXTINF:-1 tvg-id="TNT Sports 2 HD UK" tvg-name="TNT Sports 2 HD VIP UK" group-title="PREMIUM SPORTS mindep666"
-http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/10812
-#EXTINF:-1 tvg-id="TNT Sports 3 HD UK" tvg-name="TNT Sports 3 HD VIP UK" group-title="PREMIUM SPORTS mindep666"
-http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/10811
-#EXTINF:-1 tvg-id="TNT Sports 4 HD UK" tvg-name="TNT Sports 4 HD VIP UK" group-title="PREMIUM SPORTS mindep666"
-http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/10810
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD Script UK" tvg-logo="" group-title="PREMIUM SPORTS mindep666"
-http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/112728
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD Script UK" tvg-logo="" group-title="PREMIUM SPORTS mindep666"
-http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/112727
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1 HD VIP Sports" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="PREMIUM SPORTS mindep666",TNT Sports 1 HD VIP Sports
+http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/17196
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1 FHD VIP Sports" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="PREMIUM SPORTS mindep666",TNT Sports 1 FHD VIP Sports
+http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/17197
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 2 HD VIP Sports" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png" group-title="PREMIUM SPORTS mindep666",TNT Sports 2 HD VIP Sports
+http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/17194
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 3 HD VIP Sports" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_White_RGB_Logo.png" group-title="PREMIUM SPORTS mindep666",TNT Sports 3 HD VIP Sports
+http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/17192
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 4 HD VIP Sports" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_White_RGB_Logo.png" group-title="PREMIUM SPORTS mindep666",TNT Sports 4 HD VIP Sports
+http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/17190
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 4 FHD VIP Sports" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_White_RGB_Logo.png" group-title="PREMIUM SPORTS mindep666",TNT Sports 4 FHD VIP Sports
+http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/17191
+
+
 
 #EXTINF:-1 tvg-uid="fc6c2d4f3cfa9b9e5727e244fb4a6b3c" data-source="TV_Amrik" tvg-chno="24" tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="PREMIUM SPORTS mindep666",CBS Sports Network
 http://cdn1host.online:2999/live/bongus/35zqYxrbg0/197.ts
