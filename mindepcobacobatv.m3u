@@ -1107,14 +1107,17 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts
 #EXTINF:-1 group-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png",
 
 #EXTINF:-1 tvg-id="TelemundoEast.us" group-title="Backup-Worldcup", 1 Backup
+#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2a195c95880e37688286e0a6117a336f:e6cba1c52ebee16289775f5164daece7
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(KDEN)/master.mpd
 
 #EXTINF:-1 tvg-id="TelemundoEast.us" group-title="Backup-Worldcup", 2 Backup
+#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(kvea)/master.mpd
+
 
 #EXTINF:-1 tvg-id="TelemundoEast.us" group-title="Backup-Worldcup", 3 Backup
 #KODIPROP:inputstream.adaptive.license_type=clearkey
