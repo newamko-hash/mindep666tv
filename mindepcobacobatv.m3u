@@ -161,6 +161,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 #EXTINF:-1 group-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa World Cup 2026"
 
 #EXTINF:-1 tvg-uid="86ce70fd8ef8bcb6fe73dda4bc53738e" data-source="TV_Amrik" tvg-chno="134" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="Fifa World Cup 2026",TSN1 US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
 
 #EXTINF:-1 tvg-uid="ac44f89a4f5f55b02783b657bd8dd06b" data-source="TV_Amrik" tvg-chno="135" tvg-id="TSN.2.ca2" tvg-name="TSN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61474_dark_360w_270h.png" group-title="Fifa World Cup 2026",TSN2 US
@@ -179,17 +180,13 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
 
-
-#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" tvg-uid="9d5b7e47dc9d44d70733ec87cc3ca99a",TVRI SPORT
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-
 #EXTINF:-1 group-title="Fifa World Cup 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/q2tpT2-AjDqonv5M-q5SxihUuDw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg",TVRI
 #EXTVLCOPT:http-user-agent=DensTV/2.1.5 (Android; 10; SM-A505F)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
 
-#EXTINF:-1  tvg-name="Fifa World Cup 2026" tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="FIFA World Cup 2026", TVRI Sport (Alt)
-http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
+#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" tvg-uid="9d5b7e47dc9d44d70733ec87cc3ca99a",TVRI SPORT
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Fifa World Cup 2026", TSN 1 (Canada)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
