@@ -160,6 +160,12 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 
 #EXTINF:-1 group-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa World Cup 2026"
 
+#EXTINF:-1 tvg-uid="86ce70fd8ef8bcb6fe73dda4bc53738e" data-source="TV_Amrik" tvg-chno="134" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="Fifa World Cup 2026",TSN1 US
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
+
+#EXTINF:-1 tvg-uid="ac44f89a4f5f55b02783b657bd8dd06b" data-source="TV_Amrik" tvg-chno="135" tvg-id="TSN.2.ca2" tvg-name="TSN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61474_dark_360w_270h.png" group-title="Fifa World Cup 2026",TSN2 US
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
+
 #EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" tvg-uid="9d5b7e47dc9d44d70733ec87cc3ca99a",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
@@ -168,7 +174,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
 
-#EXTINF:-1  tvg-name="Fifa World Cup 2026" tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="FIFA World Cup 2026", TVRI Sport (Alt/Hacked)
+#EXTINF:-1  tvg-name="Fifa World Cup 2026" tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="FIFA World Cup 2026", TVRI Sport (Alt)
 http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Fifa World Cup 2026", TSN 1 (Canada)
@@ -466,36 +472,67 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/OkQzNhc.png" group-title="PREMIUM SPORTS mindep666",Sportstars 1
+#EXTINF:-1 tvg-id="Sportstars" tvg-name="Sportstars" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title="PREMIUM SPORTS mindep666", Sportstars 1 (Alt)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="PREMIUM SPORTS mindep666",Sportstars 2
+#EXTINF:-1 tvg-id="Sportstars2" tvg-name="Sportstars2" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png" group-title="PREMIUM SPORTS mindep666", Sportstars 2 (Alt)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTINF:-1 group-title="PREMIUM SPORTS mindep666" tvg-logo="https://i.imgur.com/dIcTZj3.png",Sportstars 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://pepek.semar.my.id/sportstars3.html
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-  
-#EXTINF:0 tvg-id="SS4" tvg-logo="https://i.imgur.com/qUYLcS8.png" group-title="PREMIUM SPORTS mindep666",Sportstars 4
+#EXTINF:-1 tvg-id="Sportstars3" tvg-name="Sportstars3" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png" group-title="PREMIUM SPORTS mindep666", Sportstars 3 (Alt)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0F
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=9999&type=fitnah
+##KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=114&type=drm
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#EXTINF:-1 tvg-id="Sportstars4" tvg-name="Sportstars4" tvg-logo="https://www.visionplus.id/images/repository/691/691-LOGO-m.png" group-title="PREMIUM SPORTS mindep666"", Sportstars 4 (Alt)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-name="Champions TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="PREMIUM SPORTS mindep666"", Champions TV 1 (Alt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=17938&type=drm
+https://vidx.semar.my.id/cobaduarr.mpd?id=17938&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-name="Champions TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="PREMIUM SPORTS mindep666", Champions TV 2 (Alt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=17939&type=drm
+https://vidx.semar.my.id/cobaduarr.mpd?id=17939&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-name="Champions TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="PREMIUM SPORTS mindep666", Champions TV 3 (Alt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6786&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=6786&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-name="Champions TV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="PREMIUM SPORTS mindep666", Champions TV 5 (Alt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=9182&type=drm
+https://vidx.semar.my.id/cobaduarr.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-name="Champions TV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="PREMIUM SPORTS mindep666", Champions TV 6 (Alt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=9183&type=drm
+https://vidx.semar.my.id/cobaduarr.mpd?id=9183&type=dash
+
 
 #EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="PREMIUM SPORTS mindep666", TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
@@ -617,6 +654,33 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
+#EXTINF:-1 tvg-name="EUROSPORT 1" tvg-logo="https://i.imgur.com/s4jDnJh.png" group-title="PREMIUM SPORTS mindep666", Eurosport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-name="EUROSPORT 2" tvg-logo="https://i.imgur.com/s4jDnJh.png" group-title="PREMIUM SPORTS mindep666", Eurosport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-chno="123" tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79027_dark_360w_270h.png" group-title="PREMIUM SPORTS mindep666", Premier Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
+#EXTINF:-1 tvg-chno="124" tvg-id="Premier.Sports.2.HD.uk" tvg-name="Premier Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109162_dark_360w_270h.png" group-title="PREMIUM SPORTS mindep666", Premier Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="PREMIUM SPORTS mindep666" tvg-id="beINSports" tvg-name="beINSports1", beIN Sports HD USA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
@@ -659,41 +723,13 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.m
 #EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="PREMIUM SPORTS mindep666",SpoTV 2
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
-#EXTINF:-1 tvg-name="EUROSPORT 1" tvg-logo="https://i.imgur.com/s4jDnJh.png" group-title="PREMIUM SPORTS mindep666", Eurosport 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-name="EUROSPORT 2" tvg-logo="https://i.imgur.com/s4jDnJh.png" group-title="PREMIUM SPORTS mindep666", Eurosport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-chno="123" tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79027_dark_360w_270h.png" group-title="PREMIUM SPORTS mindep666", Premier Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 tvg-chno="124" tvg-id="Premier.Sports.2.HD.uk" tvg-name="Premier Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109162_dark_360w_270h.png" group-title="PREMIUM SPORTS mindep666", Premier Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-
-
-#EXTINF:-1 tvg-id="FOX SPORTS.mx"   group-title="PREMIUM SPORTS mindep666", FOX SPORTS 1
+#EXTINF:-1 tvg-id="FOX SPORTS.mx"   group-title="PREMIUM SPORTS mindep666", FOX SPORTS 1 Mx
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 
-#EXTINF:-1 tvg-id="FOX SPORTS 2.mx"   group-title="PREMIUM SPORTS mindep666", FOX SPORTS 2
+#EXTINF:-1 tvg-id="FOX SPORTS 2.mx"   group-title="PREMIUM SPORTS mindep666", FOX SPORTS 2 Mx
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -701,7 +737,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
 
-#EXTINF:-1 tvg-id="FOX SPORTS 3.mx"   group-title="PREMIUM SPORTS mindep666", FOX SPORTS 3
+#EXTINF:-1 tvg-id="FOX SPORTS 3.mx"   group-title="PREMIUM SPORTS mindep666", FOX SPORTS 3 Mx
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -709,7 +745,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 
-#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx"   group-title="PREMIUM SPORTS mindep666", FOX SPORTS PREMIUM
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx"   group-title="PREMIUM SPORTS mindep666", FOX SPORTS PREMIUM Mx
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -749,69 +785,39 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
 
-
-
-
-#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-name="Champions TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="PREMIUM SPORTS mindep666"", Champions TV 1 (Alt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=17938&type=drm
-https://vidx.semar.my.id/cobaduarr.mpd?id=17938&type=dash
-
-#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-name="Champions TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="PREMIUM SPORTS mindep666", Champions TV 2 (Alt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=17939&type=drm
-https://vidx.semar.my.id/cobaduarr.mpd?id=17939&type=dash
-
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-name="Champions TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="PREMIUM SPORTS mindep666", Champions TV 3 (Alt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6786&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=6786&type=dash
-
-#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-name="Champions TV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="PREMIUM SPORTS mindep666", Champions TV 5 (Alt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=9182&type=drm
-https://vidx.semar.my.id/cobaduarr.mpd?id=9182&type=dash
-
-#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-name="Champions TV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="PREMIUM SPORTS mindep666", Champions TV 6 (Alt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=9183&type=drm
-https://vidx.semar.my.id/cobaduarr.mpd?id=9183&type=dash
-
-#EXTINF:-1 tvg-id="Sportstars" tvg-name="Sportstars" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title="PREMIUM SPORTS mindep666", Sportstars 1 (Alt)
+#EXTINF:0 tvg-logo="https://i.imgur.com/OkQzNhc.png" group-title="PREMIUM SPORTS mindep666",Sportstars 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:-1 tvg-id="Sportstars2" tvg-name="Sportstars2" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png" group-title="PREMIUM SPORTS mindep666", Sportstars 2 (Alt)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="PREMIUM SPORTS mindep666",Sportstars 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 tvg-id="Sportstars3" tvg-name="Sportstars3" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png" group-title="PREMIUM SPORTS mindep666", Sportstars 3 (Alt)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 group-title="PREMIUM SPORTS mindep666" tvg-logo="https://i.imgur.com/dIcTZj3.png",Sportstars 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://pepek.semar.my.id/sportstars3.html
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+  
+#EXTINF:0 tvg-id="SS4" tvg-logo="https://i.imgur.com/qUYLcS8.png" group-title="PREMIUM SPORTS mindep666",Sportstars 4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0F
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=9999&type=fitnah
-##KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=114&type=drm
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-
-#EXTINF:-1 tvg-id="Sportstars4" tvg-name="Sportstars4" tvg-logo="https://www.visionplus.id/images/repository/691/691-LOGO-m.png" group-title="PREMIUM SPORTS mindep666"", Sportstars 4 (Alt)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
+
+
 
 
 
@@ -822,32 +828,34 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 #EXTINF:-1 x-spion-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLGEBrdnRS7LT4-fqbtjAwdfaeIlNgnoBFtlN6koglMfe3P2MEANaZT1d8uJT-Jd6mZOg4oeZJzHXwPpVdJsvqN2TP1jdnu8hWkhg6MtKQ5XcSGq6B_U9x0-MJ4XhAxq6UZIqxHrVi8r7-IS6_iu5d426iELYPIYhBbUTP5MQXfJtxkpSgg-ksknBoLFvY/s700/GLOBAL%20TREKKER.png" group-title="US/UK tracked by 666" x-source="GEulis TV" ,GLOBAL TREEKER
 https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
-#EXTINF:-1 tvg-uid="3b9131fc37d38f1b4aa1d699b7e2136f" data-source="TV_Amrik" tvg-chno="11" tvg-id="BBC.News.(North.America).HD.us2" tvg-name="BBC World News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png" group-title="US/UK tracked by 666",BBC World News
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-uid="32e79681dc20f5e15804a2849953a1e1" data-source="TV_Amrik" tvg-chno="10" tvg-id="BBC.America.HD.us2" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64492_dark_360w_270h.png" group-title="US/UK tracked by 666",BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-uid="3b9131fc37d38f1b4aa1d699b7e2136f" data-source="TV_Amrik" tvg-chno="11" tvg-id="BBC.News.(North.America).HD.us2" tvg-name="BBC World News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png" group-title="US/UK tracked by 666",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-uid="fa46ed525e1e7ac23b66c604d95b8b0e" data-source="TV_Amrik" tvg-chno="88" tvg-id="NBC.Sports.Bay.Area.HD.us2" tvg-name="NBC Sports Bay Area" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png" group-title="US/UK tracked by 666",NBC Sports Bay Area
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/591.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2436.ts
 #EXTINF:-1 tvg-uid="dd4c90d0256fa7eee840850f932959ee" data-source="TV_Amrik" tvg-chno="89" tvg-id="NBC.Sports.Boston.HD.us2" tvg-name="NBC Sports Boston" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49198_dark_360w_270h.png" group-title="US/UK tracked by 666",NBC Sports Boston
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/590.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2435.ts
 #EXTINF:-1 tvg-uid="d9f183ca983cd8dd4c072d475e46e863" data-source="TV_Amrik" tvg-chno="90" tvg-id="NBC.Sports.California.SAT.us2" tvg-name="NBC Sports California" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45540_dark_360w_270h.png" group-title="US/UK tracked by 666",NBC Sports California
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/589.ts
+http://stream.cammonitorplus.net/1795/index.m3u8
 #EXTINF:-1 tvg-uid="dee463b2588b94edb5d0356b6c20d801" data-source="TV_Amrik" tvg-chno="91" tvg-id="a90a91570ce0536cbb22b591ad7e0da2" tvg-name="NBC Sports NOW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114140_dark_360w_270h.png" group-title="US/UK tracked by 666",NBC Sports NOW
 https://jmp2.uk/stvp-USBD420002446
+#EXTINF:-1 tvg-uid="5793deb147abae84f165d4ba29bfc460" data-source="TV_Amrik" tvg-chno="92" tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32571_dark_360w_270h.png" group-title="US/UK tracked by 666",NBC Sports Philadelphia
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3769.ts
 #EXTINF:-1 tvg-uid="ed991b6e38c97e07538af336ba41faf0" data-source="TV_Amrik" tvg-chno="1" tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="US/UK tracked by 666",A&E TV
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 tvg-uid="a20cf36de57cf07378eb112b77ca6e7c" data-source="TV_Amrik" tvg-chno="9" tvg-id="AXS.TV.us2" tvg-name="AXS TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28506_dark_360w_270h.png" group-title="US/UK tracked by 666",AXS TV
 http://23.239.31.26:8989/axstv/index.m3u8
+#EXTINF:-1 tvg-uid="d3581a98e011967bb1b2a648b33dccec" data-source="TV_Amrik" tvg-chno="86" tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="US/UK tracked by 666",NBA TV
+http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-uid="5dad3f3cfa6f6093098440b2d985b76e" data-source="TV_Amrik" tvg-chno="142" tvg-id="WE.tv.HD.us2" tvg-name="We Tv" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16409_dark_360w_270h.png" group-title="US/UK tracked by 666",We Tv
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1 tvg-uid="4d683d49a341f8e9f55ffcfaa0582988" data-source="TV_Amrik" tvg-chno="2" tvg-id="WABC-DT.us_locals1" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="US/UK tracked by 666",ABC
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/727.ts
+http://stream.cammonitorplus.net/1809/index.m3u8
 #EXTINF:-1 tvg-uid="5a2c0b391bd01aa156f1ad32e1b70592" data-source="TV_Amrik" tvg-chno="6" tvg-id="AMC.HD.us2" tvg-name="AMC" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="US/UK tracked by 666",AMC
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 tvg-uid="eab2c71d0995249525f73d59e88e5a5f" data-source="TV_Amrik" tvg-chno="87" tvg-id="WNBC-DT.us_locals1" tvg-name="NBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="US/UK tracked by 666",NBC
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/729.ts
+http://stream.cammonitorplus.net/1812/index.m3u8
 #EXTINF:-1 tvg-uid="16d9ef674a7e89b27b319e0689a15280" data-source="TV_Amrik" tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="US/UK tracked by 666",ACC Network
 http://23.237.104.106:8080/USA_ACCN/mpegts
 #EXTINF:-1 tvg-uid="fd390efcde323fe4bdf31d8654d66a3b" data-source="TV_Amrik" tvg-chno="20" tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="US/UK tracked by 666",Cartoon Network
@@ -855,27 +863,27 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-uid="0b3f218e3e9d2256d8c056ed991ab83e" data-source="TV_Amrik" tvg-chno="49" tvg-id="Food.Network.HD.us2" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44718_dark_360w_270h.png" group-title="US/UK tracked by 666",Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-uid="520fa6008668806c3469c7cde6a61c15" data-source="TV_Amrik" tvg-chno="80" tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="US/UK tracked by 666",MLB Network
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/145.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3661.ts
 #EXTINF:-1 tvg-uid="20f2ee9ed3a4caf6cbbb282041f9a1f3" data-source="TV_Amrik" tvg-chno="95" tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-network-hz-us.png" group-title="US/UK tracked by 666",NFL Network
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-uid="1b8e3d97932ce3d9a7f714d9f69c58fe" data-source="TV_Amrik" tvg-chno="96" tvg-id="NHL.Network.HD.us2" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="US/UK tracked by 666",NHL Network
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/299.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3672.ts
 #EXTINF:-1 tvg-uid="3dc6ee05c541e43d10c79003ce4f6a95" data-source="TV_Amrik" tvg-chno="109" tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" group-title="US/UK tracked by 666",SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-uid="0c194571c4944eb566590d475a980aab" data-source="TV_Amrik" tvg-chno="139" tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="US/UK tracked by 666",USA Network
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/251.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3767.ts
 #EXTINF:-1 tvg-uid="4a67e516800fcf94182d4d36713cff8b" data-source="TV_Amrik" tvg-chno="144" tvg-id="Yes.Network.us2" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="US/UK tracked by 666",YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-uid="0c82c4412cf67412a2aab2399ce52562" data-source="TV_Amrik" tvg-chno="5" tvg-id="Altitude.Sports.us2" tvg-name="Altitude Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44263_dark_360w_270h.png" group-title="US/UK tracked by 666",Altitude Sports
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1521.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/332892.ts
 #EXTINF:-1 tvg-uid="03ad0d359040ea20ac7d9ee59072192b" data-source="TV_Amrik" tvg-chno="7" tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="US/UK tracked by 666",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1 tvg-uid="3c8ce02a4d2ccb52df9fbba93319c803" data-source="TV_Amrik" tvg-chno="8" tvg-id="ASPiRE.HD.us2" tvg-name="Aspire" tvg-logo="https://i.gyazo.com/0dec42cc5ef48c489cc10db906dc5b9b.png" group-title="US/UK tracked by 666",Aspire
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2156.ts
-#EXTINF:-1 tvg-uid="50daff5c82d252da42babf3af7dfb447" data-source="TV_Amrik" tvg-chno="12" tvg-id="BET.HD.us2" tvg-name="BET" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="US/UK tracked by 666",BET
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/204.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21630.ts
 #EXTINF:-1 tvg-uid="bb0938851778e16ccefc7f0463ca2313" data-source="TV_Amrik" tvg-chno="13" tvg-id="Big.Ten.Network.HD.us2" tvg-name="Big Ten Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56783_dark_360w_270h.png" group-title="US/UK tracked by 666",Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
+#EXTINF:-1 tvg-uid="fc6c2d4f3cfa9b9e5727e244fb4a6b3c" data-source="TV_Amrik" tvg-chno="24" tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="US/UK tracked by 666",CBS Sports Network
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts
 #EXTINF:-1 tvg-uid="b2b7356c143194f99b233c33c9d1969c" data-source="TV_Amrik" tvg-chno="14" tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71799_dark_360w_270h.png" group-title="US/UK tracked by 666",Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-uid="45fe4f6d4cc57f637b7ae78596761ee2" data-source="TV_Amrik" tvg-chno="15" tvg-id="Boomerang.us2" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="US/UK tracked by 666",Boomerang
@@ -883,22 +891,17 @@ http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-uid="1341002876f571283500e99e14bb2af8" data-source="TV_Amrik" tvg-chno="16" tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" group-title="US/UK tracked by 666",Bounce TV
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1 tvg-uid="eab1cc610c5cdf99be8c1ff3b9517af2" data-source="TV_Amrik" tvg-chno="76" tvg-id="ION.Television.HD.us2" tvg-name="ION TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="US/UK tracked by 666",ION TV
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/809.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/555699.ts
 #EXTINF:-1 tvg-uid="cbf48a0e29bb3df4f1ad0400cbe148c9" data-source="TV_Amrik" tvg-chno="17" tvg-id="Bravo.HD.us2" tvg-name="Bravo TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="US/UK tracked by 666",Bravo TV
-http://41.205.93.154/BRAVO/index.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2655.ts
 #EXTINF:-1 tvg-uid="5e6ddbb3ee6288a99538c919257ae35d" data-source="TV_Amrik" tvg-chno="18" tvg-id="BUZZR.Stream.us2" tvg-name="Buzzr" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s93430_dark_360w_270h.png" group-title="US/UK tracked by 666",Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-uid="ef6836155541d700871604b1cf772ad2" data-source="TV_Amrik" tvg-chno="19" tvg-id="CSPAN.us2" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="US/UK tracked by 666",C-SPAN
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1184.ts
-#EXTINF:-1 tvg-uid="9b80252ddb8426463ba9fc77005cd0e7" data-source="TV_Amrik" tvg-chno="21" tvg-id="WBZ-DT.us_locals1" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="US/UK tracked by 666",CBS
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1852.ts
-#EXTINF:-1 tvg-uid="744908f4f7de4469478fc820bc87eb07" data-source="TV_Amrik" tvg-chno="128" tvg-id="TBS.HD.us2" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="US/UK tracked by 666",TBS
-https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-uid="b120646c2854a3af557b19c893d8da31" data-source="TV_Amrik" tvg-chno="22" tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News 24/7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104846_dark_360w_270h.png" group-title="US/UK tracked by 666",CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-uid="a44cf0b5452edcca9e0597bc50f6d6f2" data-source="TV_Amrik" tvg-chno="45" tvg-id="ESPNEWS.HD.us2" tvg-name="ESPN News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="US/UK tracked by 666",ESPN News
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/134.ts
-
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts
+#EXTINF:-1 tvg-uid="c03b18dc29b4566099a585e79bb846cd" data-source="TV_Amrik" tvg-chno="23" tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-name="CBS Sports Golazo Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s133691_dark_360w_270h.png" group-title="US/UK tracked by 666",CBS Sports Golazo Network
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #EXTINF:-1 tvg-uid="1858eef797c0c136261c91cbb6d73486" data-source="TV_Amrik" tvg-chno="25" tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png" group-title="US/UK tracked by 666",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1 tvg-uid="03f10fef8c1efb65614c94d15769c596" data-source="TV_Amrik" tvg-chno="26" tvg-id="CMT.HD.us2" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="US/UK tracked by 666",CMT
@@ -906,15 +909,15 @@ http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1 tvg-uid="6bfca52c8fb133437ce97410ea03ce8b" data-source="TV_Amrik" tvg-chno="84" tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="US/UK tracked by 666",MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 tvg-uid="c743329f79fddba2011312acb8f3ebee" data-source="TV_Amrik" tvg-chno="27" tvg-id="CNBC.HD.us2" tvg-name="CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="US/UK tracked by 666",CNBC
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/192.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3624.ts
 #EXTINF:-1 tvg-uid="ad88f50f22fc501f856f0faf0d303ea0" data-source="TV_Amrik" tvg-chno="83" tvg-id="MSNBC.HD.us2" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="US/UK tracked by 666",MSNBC
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/143.ts
+http://41.205.93.154:80/MSNBC/index.m3u8
 #EXTINF:-1 tvg-uid="b6e20c63108117fd911e73c3a36ad9b6" data-source="TV_Amrik" tvg-chno="28" tvg-id="CNN.HD.us2" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="US/UK tracked by 666",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-uid="5cf87701c8a1d7e0797656f9b9e4aca2" data-source="TV_Amrik" tvg-chno="29" tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="US/UK tracked by 666",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-uid="3099a40b791f6be1b65288594ffcc046" data-source="TV_Amrik" tvg-chno="30" tvg-id="Comedy.TV.HD.us2" tvg-name="Comedy TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82470_dark_360w_270h.png" group-title="US/UK tracked by 666",Comedy TV
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1459.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/77411.ts
 #EXTINF:-1 tvg-uid="50fe6a54a9ee3691eb210db19f15fe92" data-source="TV_Amrik" tvg-chno="31" tvg-id="Comet.us2" tvg-name="Comet TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97051_dark_360w_270h.png" group-title="US/UK tracked by 666",Comet TV
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1 tvg-uid="4510f4dee64949d9f71fb77f8947c427" data-source="TV_Amrik" tvg-chno="141" tvg-id="Vice.HD.us2" tvg-name="Vice TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="US/UK tracked by 666",Vice TV
@@ -922,77 +925,79 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:-1 tvg-uid="71a5f1da252b47ece2401879867fc426" data-source="TV_Amrik" tvg-chno="32" tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="US/UK tracked by 666",Cooking Channel
 http://23.237.104.106:8080/USA_COOKING/index.m3u8
 #EXTINF:-1 tvg-uid="ba50baf42e5dc6ae79bcea2d939bd242" data-source="TV_Amrik" tvg-chno="41" tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="US/UK tracked by 666",Disney Channel
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/180.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2591.ts
 #EXTINF:-1 tvg-uid="6df8250ea930308cb038f3f3c5fa9aaa" data-source="TV_Amrik" tvg-chno="63" tvg-id="Golf.Channel.HD.us2" tvg-name="Golf Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="US/UK tracked by 666",Golf Channel
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/138.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2385.ts
 #EXTINF:-1 tvg-uid="215f263a88a772eb22e298e9e00863f8" data-source="TV_Amrik" tvg-chno="100" tvg-id="Outdoor.Channel.HD.us2" tvg-name="Outdoor Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="US/UK tracked by 666",Outdoor Channel
 http://23.237.104.106:8080/USA_OUTDOOR/mpegts
 #EXTINF:-1 tvg-uid="bcab09a78d8929cfb92b06e4c367eb59" data-source="TV_Amrik" tvg-chno="35" tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime & Investigation Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61469_dark_360w_270h.png" group-title="US/UK tracked by 666",Crime & Investigation Network
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
-#EXTINF:-1 tvg-uid="e2e0b547abca45098d5c89e4aee8fb29" data-source="TV_Amrik" tvg-chno="36" tvg-id="KTLA-DT.us_locals1" tvg-name="CW" tvg-logo="https://i.gyazo.com/afd5b481b327d204087dfde6a7741f9d.png" group-title="US/UK tracked by 666",CW
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1086.ts
+#EXTINF:-1 tvg-uid="e2e0b547abca45098d5c89e4aee8fb29" data-source="TV_Amrik" tvg-chno="36" tvg-id="WPIX-DT.us_locals1" tvg-name="CW" tvg-logo="https://i.gyazo.com/afd5b481b327d204087dfde6a7741f9d.png" group-title="US/UK tracked by 666",CW
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3115.ts
 #EXTINF:-1 tvg-uid="0c13e95ef23221b25d78a00acc1609f6" data-source="TV_Amrik" tvg-chno="37" tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="US/UK tracked by 666",Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-uid="b425e08a6a8080adb748ba2a1936eba5" data-source="TV_Amrik" tvg-chno="38" tvg-id="Discovery.Family.Channel.HD.us2" tvg-name="Discovery Family Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="US/UK tracked by 666",Discovery Family Channel
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/183.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2598.ts
 #EXTINF:-1 tvg-uid="d87e8619f22816c5e10d9d1f6727b9c3" data-source="TV_Amrik" tvg-chno="39" tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="US/UK tracked by 666",Discovery Life
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/182.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2597.ts
 #EXTINF:-1 tvg-uid="f11d6c669a27a3a13c42af2eba640994" data-source="TV_Amrik" tvg-chno="40" tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" group-title="US/UK tracked by 666",Discovery Science
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/181.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2595.ts
 #EXTINF:-1 tvg-uid="5400877b5ec3142d98818030afd3197d" data-source="TV_Amrik" tvg-chno="58" tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70253_dark_360w_270h.png" group-title="US/UK tracked by 666",FX Movie Channel
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/166.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.ts
 #EXTINF:-1 tvg-uid="4dbd7562360673b4d1955dc215679170" data-source="TV_Amrik" tvg-chno="72" tvg-id="History.HD.us2" tvg-name="History Channel" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87679_dark_360w_270h.png" group-title="US/UK tracked by 666",History Channel
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/153.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/645913.ts
 #EXTINF:-1 tvg-uid="ed47b41f900052284d31734c2ddaacce" data-source="TV_Amrik" tvg-chno="116" tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="US/UK tracked by 666",Sony Movie Channel
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1217.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2412.ts
 #EXTINF:-1 tvg-uid="ea00a34dc22b255e21a721916fdd5131" data-source="TV_Amrik" tvg-chno="42" tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="US/UK tracked by 666",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-uid="f44e84928a8698604fdc109d528c3978" data-source="TV_Amrik" tvg-chno="43" tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! Entertainment" tvg-logo="https://i.gyazo.com/f73b80e3eb56cec06df6705d00e2f422.png" group-title="US/UK tracked by 666",E! Entertainment
 http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1 tvg-uid="564716f825e0b7408d0586ffca0ec4b0" data-source="TV_Amrik" tvg-chno="44" tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="US/UK tracked by 666",ESPN
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3725.ts
+#EXTINF:-1 tvg-uid="1ba2123e6ed37d45df44dcfa067450a5" data-source="TV_Amrik" tvg-chno="46" tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="US/UK tracked by 666",ESPN U
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 tvg-uid="8ecfcdaae27f18e25d15a3cce8ca7728" data-source="TV_Amrik" tvg-chno="47" tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="US/UK tracked by 666",ESPN2
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2581.ts
 #EXTINF:-1 tvg-uid="c30dd79af87a806f86a20a4e8e142dc8" data-source="TV_Amrik" tvg-chno="93" tvg-id="New.England.Sports.Network.HD.us2" tvg-name="NESN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35038_dark_360w_270h.png" group-title="US/UK tracked by 666",NESN
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/890.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/149310.ts
 #EXTINF:-1 tvg-uid="d84fc200e067679abb85a3352d536751" data-source="TV_Amrik" tvg-chno="48" tvg-id="plex.tv.FIFA+.plex" tvg-name="FIFA+ TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s136235_dark_360w_270h.png" group-title="US/UK tracked by 666",FIFA+ TV
 https://jmp2.uk/stvp-IN270000230
 #EXTINF:-1 tvg-uid="43c62128f70f1686c5e5bb11c757b355" data-source="TV_Amrik" tvg-chno="60" tvg-id="FYI.Channel.HD.us2" tvg-name="FYI TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16834_dark_360w_270h.png" group-title="US/UK tracked by 666",FYI TV
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/164.ts
-#EXTINF:-1 tvg-uid="3492daf4147a5e3b5fd9a7326dee255b" data-source="TV_Amrik" tvg-chno="50" tvg-id="WNYW-DT.us_locals1" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="US/UK tracked by 666",Fox
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/728.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30924.ts
+#EXTINF:-1 tvg-uid="3492daf4147a5e3b5fd9a7326dee255b" data-source="TV_Amrik" tvg-chno="50" tvg-id="WFLD-DT.us_locals1" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="US/UK tracked by 666",Fox
+http://stream.cammonitorplus.net/1752/index.m3u8
 #EXTINF:-1 tvg-uid="5470fdd2221efb0f9081544eb94596df" data-source="TV_Amrik" tvg-chno="57" tvg-id="FX.HD.us2" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="US/UK tracked by 666",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 tvg-uid="7a92cf2048f3812eb6109701c858de34" data-source="TV_Amrik" tvg-chno="59" tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png" group-title="US/UK tracked by 666",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 tvg-uid="68ddebf32cffbfd0ff5e1f92f3f38d18" data-source="TV_Amrik" tvg-chno="51" tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="US/UK tracked by 666",Fox Business
-http://41.205.93.154/FOXBUSINESS/index.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3730.ts
 #EXTINF:-1 tvg-uid="5e17f76343091f8c36957f0cea32aa22" data-source="TV_Amrik" tvg-chno="52" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="US/UK tracked by 666",Fox News
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/267.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2543.ts
 #EXTINF:-1 tvg-uid="5ab6856bda10e7a2d8e5497b50071ab1" data-source="TV_Amrik" tvg-chno="53" tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="US/UK tracked by 666",Fox Sports 1
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/263.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts
 #EXTINF:-1 tvg-uid="12352de08094d2667b6a8a4ccc332225" data-source="TV_Amrik" tvg-chno="54" tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="US/UK tracked by 666",Fox Sports 2
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/264.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts
 #EXTINF:-1 tvg-uid="ec4acb7961979824a93879bc9723cc94" data-source="TV_Amrik" tvg-chno="55" tvg-id="Freeform.HD.us2" tvg-name="Freeform TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="US/UK tracked by 666",Freeform TV
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/170.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2502.ts
 #EXTINF:-1 tvg-uid="836d048bfcb283829e319093e39c05a8" data-source="TV_Amrik" tvg-chno="56" tvg-id="Fuse.HD.us2" tvg-name="FUSE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="US/UK tracked by 666",FUSE
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1 tvg-uid="72dac5d2b0897b6b099e4235d3d8f81a" data-source="TV_Amrik" tvg-chno="61" tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="US/UK tracked by 666",Game Show Network
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/358.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648975.ts
 #EXTINF:-1 tvg-uid="f0facbf830d0555488aabdd4bbeb4ad8" data-source="TV_Amrik" tvg-chno="79" tvg-id="Marquee.Sports.Network.HD.us2" tvg-name="Marquee Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113768_dark_360w_270h.png" group-title="US/UK tracked by 666",Marquee Sports Network
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1045.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/55178.ts
 #EXTINF:-1 tvg-uid="0696968a0d9bc6ea82c6bf7a05db8bd5" data-source="TV_Amrik" tvg-chno="117" tvg-id="Space.City.Home.Network.HD.us2" tvg-name="Space City Home Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77744_dark_360w_270h.png" group-title="US/UK tracked by 666",Space City Home Network
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1276.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/663927.ts
 #EXTINF:-1 tvg-uid="8ffb4c6908a82c8713203e4ed59882a0" data-source="TV_Amrik" tvg-chno="62" tvg-id="get.us2" tvg-name="getTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82563_dark_360w_270h.png" group-title="US/UK tracked by 666",getTV
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/45830.ts
-#EXTINF:-1 tvg-uid="fc6c2d4f3cfa9b9e5727e244fb4a6b3c" data-source="TV_Amrik" tvg-chno="24" tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="US/UK tracked by 666",CBS Sports Network
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/197.ts
-#EXTINF:-1 tvg-uid="c03b18dc29b4566099a585e79bb846cd" data-source="TV_Amrik" tvg-chno="23" tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-name="CBS Sports Golazo Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s133691_dark_360w_270h.png" group-title="US/UK tracked by 666",CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30928.ts
 #EXTINF:-1 tvg-uid="ff16c9b243cf774a49dcfb3378d0bc02" data-source="TV_Amrik" tvg-chno="64" tvg-id="Grit.us2" tvg-name="Grit TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89922_dark_360w_270h.png" group-title="US/UK tracked by 666",Grit TV
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/734.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/40583.ts
 #EXTINF:-1 tvg-uid="ae4318d4c6e837eec30dd4612bd74437" data-source="TV_Amrik" tvg-chno="65" tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="US/UK tracked by 666",Hallmark Channel
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 #EXTINF:-1 tvg-uid="d40ab49b843681d0c6595ff9f55da289" data-source="TV_Amrik" tvg-chno="66" tvg-id="Hallmark.Family.us2" tvg-name="Hallmark Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105723_dark_360w_270h.png" group-title="US/UK tracked by 666",Hallmark Family
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/356.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/660922.ts
 #EXTINF:-1 tvg-uid="6c0cea6e0293ca3eb51d6cbf2adf32a2" data-source="TV_Amrik" tvg-chno="67" tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mystery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61522_dark_360w_270h.png" group-title="US/UK tracked by 666",Hallmark Mystery
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/161.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2492.ts
 #EXTINF:-1 tvg-uid="f90f93c8bef28fe7788148cb1fb30605" data-source="TV_Amrik" tvg-chno="68" tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="US/UK tracked by 666",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 tvg-uid="03097e6f946bd148e611550b9eccb0d7" data-source="TV_Amrik" tvg-chno="69" tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="US/UK tracked by 666",HBO 2
@@ -1004,37 +1009,41 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-uid="fb93610b2d9e2d4b933d4b57e64c84f1" data-source="TV_Amrik" tvg-chno="73" tvg-id="HLN.HD.us2" tvg-name="HLN TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="US/UK tracked by 666",HLN TV
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1 tvg-uid="cb28eaae5df50050827c4935b4835657" data-source="TV_Amrik" tvg-chno="74" tvg-id="INSP.HD.us2" tvg-name="INSP" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11066_dark_360w_270h.png" group-title="US/UK tracked by 666",INSP
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/895.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74682.ts
 #EXTINF:-1 tvg-uid="1dab60d98fd608173c380acefabc9acd" data-source="TV_Amrik" tvg-chno="75" tvg-id="Investigation.Discovery.HD.us2" tvg-name="Investigation Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="US/UK tracked by 666",Investigation Discovery
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/150.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/88083.ts
 #EXTINF:-1 tvg-uid="53c3638aa320531f82ed5b00b89187c9" data-source="TV_Amrik" tvg-chno="77" tvg-id="Lifetime.HD.us2" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="US/UK tracked by 666",Lifetime
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/148.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/645914.ts
 #EXTINF:-1 tvg-uid="c74b590374f8829403de506b56180d21" data-source="TV_Amrik" tvg-chno="78" tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="US/UK tracked by 666",Lifetime Movie Network
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1 tvg-uid="1127a46e32d1063df9a08e1886b4eec9" data-source="TV_Amrik" tvg-chno="81" tvg-id="MOTORTREND.HD.us2" tvg-name="MotorTrend TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" group-title="US/UK tracked by 666",MotorTrend TV
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/250.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3747.ts
 #EXTINF:-1 tvg-uid="f63262405af1daa24f260517280ce56d" data-source="TV_Amrik" tvg-chno="82" tvg-id="MSG.National.us2" tvg-name="MSG" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10979_dark_360w_270h.png" group-title="US/UK tracked by 666",MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1 tvg-uid="6c2bd302cf86641d4526f3519ec2fff5" data-source="TV_Amrik" tvg-chno="85" tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="US/UK tracked by 666",National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-uid="4a00ba9c2a6e1bee00fca0fd4e0cdef0" data-source="TV_Amrik" tvg-chno="94" tvg-id="NewsNation.us2" tvg-name="NewsNation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91096_dark_360w_270h.png" group-title="US/UK tracked by 666",NewsNation
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/45839.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/647784.ts
 #EXTINF:-1 tvg-uid="f117d60d3b7ee04e1e95dbe1618e9238" data-source="TV_Amrik" tvg-chno="97" tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="US/UK tracked by 666",Nick Jr
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/351.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74691.ts
 #EXTINF:-1 tvg-uid="94c4d72478b32618ac560b3625c9d4b8" data-source="TV_Amrik" tvg-chno="98" tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="US/UK tracked by 666",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-uid="8b5ca5022d8f94d15a87f38d28289507" data-source="TV_Amrik" tvg-chno="99" tvg-id="Nicktoons.us2" tvg-name="Nicktoons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" group-title="US/UK tracked by 666",Nicktoons
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1223.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3674.ts
 #EXTINF:-1 tvg-uid="16bfd17ce9e72344697c93ca3a16ca21" data-source="TV_Amrik" tvg-chno="101" tvg-id="Ovation.HD.us2" tvg-name="Ovation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15807_dark_360w_270h.png" group-title="US/UK tracked by 666",Ovation
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/45840.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/31180.ts
 #EXTINF:-1 tvg-uid="e01a9882ee4ac7738979afed2597640a" data-source="TV_Amrik" tvg-chno="102" tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen" tvg-logo="https://i.gyazo.com/68db5ec4dba40181592406e7c3128fc7.png" group-title="US/UK tracked by 666",Oxygen
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/228.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3756.ts
 #EXTINF:-1 tvg-uid="24cc638b726bb71e8b288a6f85ec5ef2" data-source="TV_Amrik" tvg-chno="103" tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="US/UK tracked by 666",Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-uid="305462dfe416daa5b26b749c2cdbf772" data-source="TV_Amrik" tvg-chno="104" tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101364_dark_360w_270h.png" group-title="US/UK tracked by 666",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-uid="e6ca9ee542e6c3a8ab379b2ad96f7eaa" data-source="TV_Amrik" tvg-chno="105" tvg-id="POP.HD.us2" tvg-name="Pop TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16715_dark_360w_270h.png" group-title="US/UK tracked by 666",Pop TV
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/226.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3863.ts
+#EXTINF:-1 tvg-uid="a02b95965e8d1de56d45a81277fd93ff" data-source="TV_Amrik" tvg-chno="106" tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79027_dark_360w_270h.png" group-title="US/UK tracked by 666",Premier Sports 1
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89089.ts
+#EXTINF:-1 tvg-uid="4b1f8d9c6ef937e217b6b5dbb1f4bb1b" data-source="TV_Amrik" tvg-chno="107" tvg-id="Premier.Sports.2.HD.uk" tvg-name="Premier Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109162_dark_360w_270h.png" group-title="US/UK tracked by 666",Premier Sports 2
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89090.ts
 #EXTINF:-1 tvg-uid="f23a09a462338c52e101fa34b40f43e3" data-source="TV_Amrik" tvg-chno="108" tvg-id="ReelzChannel.HD.us2" tvg-name="Reelz Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68385_dark_360w_270h.png" group-title="US/UK tracked by 666",Reelz Channel
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
 #EXTINF:-1 tvg-uid="b405b4a7a802c40639e49f8b4a763c90" data-source="TV_Amrik" tvg-chno="129" tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60316_dark_360w_270h.png" group-title="US/UK tracked by 666",Tennis Channel
@@ -1042,47 +1051,53 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlint
 #EXTINF:-1 tvg-uid="56d8ed46f583b59ffb50759220962511" data-source="TV_Amrik" tvg-chno="110" tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="US/UK tracked by 666",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 #EXTINF:-1 tvg-uid="dd934fcf7fa81cce637d978e1982b6b8" data-source="TV_Amrik" tvg-chno="111" tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="US/UK tracked by 666",Showtime Extreme
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/385.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts
 #EXTINF:-1 tvg-uid="4fe16f77523560499b8ee8043929f56c" data-source="TV_Amrik" tvg-chno="112" tvg-id="Sky.Sports.Football.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104327_dark_360w_270h.png" group-title="US/UK tracked by 666",Sky Sports Football
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2166.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2188.ts
 #EXTINF:-1 tvg-uid="ef34c8ebc0991f7268728bb91488931e" data-source="TV_Amrik" tvg-chno="113" tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027JYG2.png_dark_360w_270h.png" group-title="US/UK tracked by 666",Sky Sports News
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/416
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2179.ts
 #EXTINF:-1 tvg-uid="dd2a03c0b71b9ff1d6bb8bacbc17d48d" data-source="TV_Amrik" tvg-chno="114" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89362_gray_360w_270h.png" group-title="US/UK tracked by 666",Sky Sports Premier League
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2165.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2182.ts
 #EXTINF:-1 tvg-uid="cb8be9b8a4479cb628cae77c18f3913a" data-source="TV_Amrik" tvg-chno="115" tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58532_dark_360w_270h.png" group-title="US/UK tracked by 666",Smithsonian Channel
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/46810.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3812.ts
 #EXTINF:-1 tvg-uid="f2d23b34f495af0a55be6d9ad1622e8f" data-source="TV_Amrik" tvg-chno="120" tvg-id="Sportsman.Channel.us2" tvg-name="Sportsman Channel" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33930_dark_360w_270h.png" group-title="US/UK tracked by 666",Sportsman Channel
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/54385.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/97483.ts
 #EXTINF:-1 tvg-uid="b50eeceaaee1c49bbcdb4b52b6e475a8" data-source="TV_Amrik" tvg-chno="118" tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-name="Spectrum SportsNet LA Dodgers" tvg-logo="https://i.gyazo.com/765cce528ddda366695bb178d9dee6da.png" group-title="US/UK tracked by 666",Spectrum SportsNet LA Dodgers
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1609.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74683.ts
 #EXTINF:-1 tvg-uid="00f00b27ce07f06a35209dd0ae6de289" data-source="TV_Amrik" tvg-chno="119" tvg-id="Spectrum.SportsNet.Lakers.HD.us2" tvg-name="Spectrum SportsNet Lakers" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77422_dark_360w_270h.png" group-title="US/UK tracked by 666",Spectrum SportsNet Lakers
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/873.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/512561.ts
 #EXTINF:-1 tvg-uid="cd7dcf260f52a4482c57e82e3ecfe334" data-source="TV_Amrik" tvg-chno="121" tvg-id="Sportsnet.360.HD.ca2" tvg-name="Sportsnet 360" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png" group-title="US/UK tracked by 666",Sportsnet 360
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2044.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3073.ts
 #EXTINF:-1 tvg-uid="96793ab18734887e1c47a271426f8780" data-source="TV_Amrik" tvg-chno="122" tvg-id="Sportsnet.East.ca2" tvg-name="Sportsnet East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62109_dark_360w_270h.png" group-title="US/UK tracked by 666",Sportsnet East
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2045.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3072.ts
 #EXTINF:-1 tvg-uid="d677afc1d9b86b707062f7a8055907cd" data-source="TV_Amrik" tvg-chno="124" tvg-id="Sportsnet.One.ca2" tvg-name="Sportsnet One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68859_dark_360w_270h.png" group-title="US/UK tracked by 666",Sportsnet One
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2046.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3071.ts
 #EXTINF:-1 tvg-uid="ba4d076a5727e40444cb1199b470edc9" data-source="TV_Amrik" tvg-chno="123" tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="SportsNet New York" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50038_dark_360w_270h.png" group-title="US/UK tracked by 666",SportsNet New York
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/330.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3865.ts
 #EXTINF:-1 tvg-uid="f344a161fee2bd5e8215d938ce708968" data-source="TV_Amrik" tvg-chno="125" tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="US/UK tracked by 666",Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1 tvg-uid="1cf67a73e83e5a3025e877a776e83f74" data-source="TV_Amrik" tvg-chno="126" tvg-id="Starz.Encore.Classic.us2" tvg-name="Starz Encore Classic" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14764_dark_360w_270h.png" group-title="US/UK tracked by 666",Starz Encore Classic
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1471.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3953.ts
 #EXTINF:-1 tvg-uid="91e71bed80cfe2d2a0a33b6d5474d012" data-source="TV_Amrik" tvg-chno="127" tvg-id="Syfy.HD.us2" tvg-name="Syfy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="US/UK tracked by 666",Syfy
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 tvg-uid="cee6eefe3ed1ef995d8acb41100b38f4" data-source="TV_Amrik" tvg-chno="130" tvg-id="The.Weather.Channel.HD.us2" tvg-name="The Weather Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="US/UK tracked by 666",The Weather Channel
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/301.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/42308.ts
 #EXTINF:-1 tvg-uid="d9273059077e7b16048bcfc9272c64b0" data-source="TV_Amrik" tvg-chno="131" tvg-id="TLC.HD.(US).us2" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="US/UK tracked by 666",TLC
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/241.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2594.ts
 #EXTINF:-1 tvg-uid="5c297e1a474a5ecb895b375a998a3113" data-source="TV_Amrik" tvg-chno="132" tvg-id="TNT.HD.us2" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="US/UK tracked by 666",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-uid="c6b47a80057845e382e46e43e0fd863a" data-source="TV_Amrik" tvg-chno="133" tvg-id="truTV.HD.us2" tvg-name="truTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="US/UK tracked by 666",truTV
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-uid="87c37b4ed2f36815c28e2398253bb29d" data-source="TV_Amrik" tvg-chno="136" tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="US/UK tracked by 666",Turner Classic Movies
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-uid="91a1ecbead519c2c617f5a5d3ef2324f" data-source="TV_Amrik" tvg-chno="137" tvg-id="TV.Land.HD.us2" tvg-name="TV Land" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_dark_360w_270h.png" group-title="US/UK tracked by 666",TV Land
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/300.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/614330.ts
+#EXTINF:-1 tvg-uid="da9a9324cbf7bcf75334b1c827f71373" data-source="TV_Amrik" tvg-chno="138" tvg-id="TV.ONE.HD.us2" tvg-name="TV One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35513_dark_360w_270h.png" group-title="US/UK tracked by 666",TV One
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21897.ts
 #EXTINF:-1 tvg-uid="79cd252a250d531ed78410c8bdc271f1" data-source="TV_Amrik" tvg-chno="140" tvg-id="VH1.HD.us2" tvg-name="VH1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="US/UK tracked by 666",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
+#EXTINF:-1 tvg-uid="d54c72d26fa4c3cede461d5c6baae3f3" data-source="TV_Amrik" tvg-chno="143" tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Cricket" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68605_dark_360w_270h.png" group-title="US/UK tracked by 666",Willow Cricket
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts
 
 
 # ===== LIVE EVENT =====
