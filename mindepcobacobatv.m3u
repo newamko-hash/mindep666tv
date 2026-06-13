@@ -1192,38 +1192,22 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 #KODIPROP:inputstream.adaptive.license_key=069f3495380f3d25a8c03477067f7d1b:7d9dbf8134535e1665e914fb7134ce47
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd
 
-
-#EXTINF:-1 tvg-uid="eb94f26f86b16def1c749d3dfba4a9f7" data-source="Fawa Event" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="🔴FIFA WORLD CUP 2026🔴",[05:00 WIB] [FIFA World Cup] Brazil vs Morocco --- ENG (Fawa) [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.41/hls/PPPPQQQQ.m3u8
-
-#EXTINF:-1 tvg-uid="91f13525851ec2ed13c89b69190808d8" data-source="Fawa Event" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="🔴FIFA WORLD CUP 2026🔴",[05:00 WIB] [FIFA World Cup] Brazil vs Morocco --- ENG (Fawa) [M3]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.49/hls/PPPPQQQQ.m3u8
-
-#EXTINF:-1 tvg-uid="8b50b8b48b0a74468c9a85b3558c949d" data-source="Fawa Event" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="🔴FIFA WORLD CUP 2026🔴",[05:00 WIB] [FIFA World Cup] Brazil vs Morocco --- ENG (Fawa) [M2]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.45/hls/PPPPQQQQ.m3u8
-
 #EXTINF:-1 data-source="Manual" group-title="🔴FIFA WORLD CUP 2026🔴" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="ff940d9bfaff747139ae375c8c94f21a",CH1 (Recommended ENG)
 http://starhub.pro/live/farhat-3379/67897-913379/745149.ts
-#EXTINF:-1 data-source="Manual" group-title="🔴FIFA WORLD CUP 2026🔴" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="662a45a3228fee015f53b3c37dd805a1",FUSSEBALL TV1 UHD 4K
-http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
-#EXTINF:-1 data-source="Manual" group-title="🔴FIFA WORLD CUP 2026🔴" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="3af0c0ee9a250b43bc461c5b9eb60949",FUSSEBALL TV2 UHD 4K
-http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
+
+
+#EXTINF:-1 data-source="Manual" group-title="🔴FIFA WORLD CUP 2026🔴" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="566e3277396a8a614d3e8d747acbbf28",Fusseball TV1
+http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
+#EXTINF:-1 data-source="Manual" group-title="🔴FIFA WORLD CUP 2026🔴" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="6b232b464d32a714320dc85a1ece2c8b",Fusseball TV2
+http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
+#EXTINF:-1 data-source="Manual" group-title="🔴FIFA WORLD CUP 2026🔴" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="99eae70addcde1624d9875d45280e359",TSN 1
+http://myxpanel.pro/live/Melo/Melo/3996.ts
+#EXTINF:-1 data-source="Manual" group-title="🔴FIFA WORLD CUP 2026🔴" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="76360652a91a9d9b4a9417455434630d",TSN 4
+http://myxpanel.pro/live/Melo/Melo/3993.ts
+
 #EXTINF:-1 data-source="Manual" group-title="🔴FIFA WORLD CUP 2026🔴" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="7b6d8b3f29bb374bee8db56acc2e3b6e",CH2
 http://starhub.pro/live/farhat-3379/67897-913379/745211.ts
 #EXTINF:-1 data-source="Manual" group-title="🔴FIFA WORLD CUP 2026🔴" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="626410e6843cdb906fa83c4457d75218",CH3
 http://starhub.pro/live/farhat-3379/67897-913379/745195.ts
 #EXTINF:-1 data-source="Manual" group-title="🔴FIFA WORLD CUP 2026🔴" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="21f6494addfbf8f62f453367078463f0",CH4
 http://starhub.pro/live/farhat-3379/67897-913379/741566.ts
-#EXTINF:-1 data-source="Manual" group-title="🔴FIFA WORLD CUP 2026🔴" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="99eae70addcde1624d9875d45280e359",TSN 1
-http://myxpanel.pro/live/Melo/Melo/3996.ts
-#EXTINF:-1 data-source="Manual" group-title="🔴FIFA WORLD CUP 2026🔴" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="76360652a91a9d9b4a9417455434630d",TSN 4
-http://myxpanel.pro/live/Melo/Melo/3993.ts
