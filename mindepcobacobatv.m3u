@@ -1108,6 +1108,10 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png",
 
+#EXTINF:-1 data-source="Manual" group-title="Backup-Worldcup" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="662a45a3228fee015f53b3c37dd805a1", FUSSEBALL TV1 4K
+http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
+#EXTINF:-1 data-source="Manual" group-title="Backup-Worldcup" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="3af0c0ee9a250b43bc461c5b9eb60949", FUSSEBALL TV2 4K
+http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 
 #EXTINF:-1 tvg-id="TelemundoEast.us" group-title="Backup-Worldcup", 1 Backup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
