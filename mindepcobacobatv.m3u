@@ -207,17 +207,14 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
 #EXTINF:-1 tvg-uid="ac44f89a4f5f55b02783b657bd8dd06b" data-source="TV_Amrik" tvg-chno="135" tvg-id="TSN.2.ca2" tvg-name="TSN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61474_dark_360w_270h.png" group-title="Fifa World Cup 2026",TSN2 US /BACKUP
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
 
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1" tvg-logo="https://i.ibb.co/vx6X9LXV/FS1.jpg" group-title="Fifa World Cup 2026", FS1 (Alt)
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="FS2" tvg-logo="https://i.ibb.co/qFcxnxXw/FS2.png" group-title="Fifa World Cup 2026", FS2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="FS2" tvg-logo="https://i.ibb.co/qFcxnxXw/FS2.png" group-title="Fifa World Cup 2026", FS2 (Alt)
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1" tvg-logo="https://i.ibb.co/vx6X9LXV/FS1.jpg" group-title="Fifa World Cup 2026", Fox Sports 1
+http://starhub.pro/live/farhat-3379/67897-913379/3420.ts
+#EXTINF:-1 data-source="Manual" Group-title="Fifa World Cup 2026" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", Fox Sports 2
+http://starhub.pro/live/farhat-3379/67897-913379/3421.ts
+#EXTINF:-1 data-source="Manual" Group-title="Fifa World Cup 2026" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", Fox??
+http://starhub.pro/live/farhat-3379/67897-913379/3419.ts
 
 #EXTINF:-1 tvg-chno="65" tvg-id="WJBK-DT.us_locals1" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="Fifa World Cup 2026", Fox (United States)
 http://stream.cammonitorplus.net/1772/index.m3u8
