@@ -1103,7 +1103,7 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 #KODIPROP:inputstream.adaptive.license_key=069f3495380f3d25a8c03477067f7d1b:7d9dbf8134535e1665e914fb7134ce47
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd
 
-#EXTINF:-1 tvg-id="FOX.US" tvg-name="Fox US" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="Fifa World Cup 2026", 16 (Fox US UPDATED)
+#EXTINF:-1 tvg-id="FOX.US" tvg-name="Fox US" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="Backup-Worldcup", 16 (Fox US UPDATED)
 http://starhub.pro/live/farhat-3379/67897-913379/3424.ts
 
 #EXTINF:-1 data-source="Manual" group-title="Backup-Worldcup" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" tvg-uid="99eae70addcde1624d9875d45280e359",17 (TSN 1 CA / BACKUP)
