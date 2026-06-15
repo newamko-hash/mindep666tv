@@ -1,17 +1,10 @@
 #EXTM3U
 #EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" billed-msg="© 2026 root@mindep666⛔ || Premium = activated" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
 
-# ===== VIDIO SOURCE =====
-
-
-#EXTM3U
-
 #EXTM3U url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg" refresh="3600" billed-msg="© 2026 root@mindep666⛔ || Premium active = true"
 
 
-# ===== VIDIO SOURCE =====
-
-<=================== Indonesia =============================>
+# =============================== INDONESIA ================================================================================================== #
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vidiocdn.com/wVMpYd5wTob7JQJ62BWlPTWG--Y=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg",TVONE
 #EXTVLCOPT:http-user-agent=VisionPlus/5.10.1 (com.mnc.visionplus; build:20240101; Android 13; Model:Pixel 6)
@@ -166,7 +159,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 
 
 
-<=================== WORLD CUP =============================>
+# =============================== WORLD CUP ================================================================================================== #
 
 
 #EXTINF:-1 group-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa World Cup 2026"
@@ -190,6 +183,8 @@ http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 http://starhub.pro/live/farhat-3379/67897-913379/3420.ts
 #EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="FS2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="Fifa World Cup 2026", Fox Sports 2 UPDATED
 http://starhub.pro/live/farhat-3379/67897-913379/3421.ts
+#EXTINF:-1 tvg-id="FOX.US" tvg-name="Fox US" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="Fifa World Cup 2026", Fox US UPDATED
+http://starhub.pro/live/farhat-3379/67897-913379/3424.ts
 
 #EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="ff940d9bfaff747139ae375c8c94f21a",CH1
 http://starhub.pro/live/farhat-3379/67897-913379/745149.ts
@@ -390,19 +385,19 @@ http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/135153
 http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/135154
 
 #EXTINF:-1 tvg-id="" tvg-name="Fifa 06 VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 06 VIP Sports
-http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/135155
+http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/135155.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Fifa 07 VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 07 VIP Sports
-http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/135156
+http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/135156.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Fifa 08 VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 08 VIP Sports
-http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/135157
+http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/135157.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Fifa 09 VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 09 VIP Sports
-http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/135158
+http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/135158.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Fifa 10 VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 10 VIP Sports
-http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/135159
+http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/135159.ts
 
 
 
@@ -410,7 +405,7 @@ http://nicolaj.123tv.to:8080/Shoiabpaiman/CYvPTBhN5q/135159
 
 
 
-=========================================== Sports ===============================================
+# ================================================================================================== SPORTS PREMIUM ================================================================================================== #
 
 #EXTINF:-1 data-source="Manual" group-title="PREMIUM SPORTS mindep666" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" tvg-uid="9d5b7e47dc9d44d70733ec87cc3ca99a",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
@@ -769,7 +764,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 
 
-# ===== cobacoba666 ===== #
+# ================================================================================================== US/UK ================================================================================================== #
 
 #EXTINF:-1 x-spion-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLGEBrdnRS7LT4-fqbtjAwdfaeIlNgnoBFtlN6koglMfe3P2MEANaZT1d8uJT-Jd6mZOg4oeZJzHXwPpVdJsvqN2TP1jdnu8hWkhg6MtKQ5XcSGq6B_U9x0-MJ4XhAxq6UZIqxHrVi8r7-IS6_iu5d426iELYPIYhBbUTP5MQXfJtxkpSgg-ksknBoLFvY/s700/GLOBAL%20TREKKER.png" group-title="US/UK tracked by 666" x-source="GEulis TV" ,GLOBAL TREEKER
 https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
@@ -1049,6 +1044,10 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts
 
 
 
+
+# ====================================================== WORLD CUP/BACKUP ================================================================================================== #
+
+
 #EXTINF:-1 group-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Backup-Worldcup"
 
 #EXTINF:-1 data-source="Manual" group-title="Backup-Worldcup" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="566e3277396a8a614d3e8d747acbbf28",Fusseball TV1 GERMANY FHD
@@ -1155,77 +1154,15 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
 
 
 
-#EXTINF:-1 tvg-id="deb1" group-title="debugging/test CH 666", DEB 1
-http://starhub.pro/live/farhat-3379/67897-913379/3370.ts
 
-#EXTINF:-1 tvg-id="deb2" group-title="debugging/test CH 666", DEB 2
-http://starhub.pro/live/farhat-3379/67897-913379/3371.ts
 
-#EXTINF:-1 tvg-id="deb3" group-title="debugging/test CH 666", DEB 3
-http://starhub.pro/live/farhat-3379/67897-913379/3372.ts
-
-#EXTINF:-1 tvg-id="deb4" group-title="debugging/test CH 666", DEB 4
-http://starhub.pro/live/farhat-3379/67897-913379/3373.ts
-
-#EXTINF:-1 tvg-id="deb5" group-title="debugging/test CH 666", DEB 5
-http://starhub.pro/live/farhat-3379/67897-913379/3374.ts
-
-#EXTINF:-1 tvg-id="deb6" group-title="debugging/test CH 666", DEB 6
-http://starhub.pro/live/farhat-3379/67897-913379/3375.ts
-
-#EXTINF:-1 tvg-id="deb7" group-title="debugging/test CH 666", DEB 7
-http://starhub.pro/live/farhat-3379/67897-913379/3376.ts
-
-#EXTINF:-1 tvg-id="deb8" group-title="debugging/test CH 666", DEB 8
-http://starhub.pro/live/farhat-3379/67897-913379/3377.ts
-
-#EXTINF:-1 tvg-id="deb9" group-title="debugging/test CH 666", DEB 9
-http://starhub.pro/live/farhat-3379/67897-913379/3378.ts
-
-#EXTINF:-1 tvg-id="deb10" group-title="debugging/test CH 666", DEB 10
-http://starhub.pro/live/farhat-3379/67897-913379/3379.ts
-
-#EXTINF:-1 tvg-id="deb11" group-title="debugging/test CH 666", DEB 11
-http://starhub.pro/live/farhat-3379/67897-913379/3380.ts
-
-#EXTINF:-1 tvg-id="deb12" group-title="debugging/test CH 666", DEB 12
-http://starhub.pro/live/farhat-3379/67897-913379/3381.ts
-
-#EXTINF:-1 tvg-id="deb13" group-title="debugging/test CH 666", DEB 13
-http://starhub.pro/live/farhat-3379/67897-913379/3382.ts
-
-#EXTINF:-1 tvg-id="deb14" group-title="debugging/test CH 666", DEB 14
-http://starhub.pro/live/farhat-3379/67897-913379/3383.ts
-
-#EXTINF:-1 tvg-id="deb15" group-title="debugging/test CH 666", DEB 15
-http://starhub.pro/live/farhat-3379/67897-913379/3384.ts
-
-#EXTINF:-1 tvg-id="deb16" group-title="debugging/test CH 666", DEB 16
-http://starhub.pro/live/farhat-3379/67897-913379/3385.ts
-
-#EXTINF:-1 tvg-id="deb17" group-title="debugging/test CH 666", DEB 17
-http://starhub.pro/live/farhat-3379/67897-913379/3386.ts
-
-#EXTINF:-1 tvg-id="deb18" group-title="debugging/test CH 666", DEB 18
-http://starhub.pro/live/farhat-3379/67897-913379/3387.ts
-
-#EXTINF:-1 tvg-id="deb19" group-title="debugging/test CH 666", DEB 19
-http://starhub.pro/live/farhat-3379/67897-913379/3388.ts
-
-#EXTINF:-1 tvg-id="deb20" group-title="debugging/test CH 666", DEB 20
-http://starhub.pro/live/farhat-3379/67897-913379/3389.ts
-
-#EXTINF:-1 tvg-id="deb21" group-title="debugging/test CH 666", DEB 21
-http://starhub.pro/live/farhat-3379/67897-913379/3390.ts
+# =============================== DEBBUGGING/TEST ================================================================================================== #
 
 #EXTINF:-1 tvg-id="deb22" group-title="debugging/test CH 666", DEB 22
-http://starhub.pro/live/farhat-3379/67897-913379/3391.ts
+http://starhub.pro/live/farhat-3379/67897-913379/3392.ts
 
 #EXTINF:-1 tvg-id="deb23" group-title="debugging/test CH 666", DEB 23
 http://starhub.pro/live/farhat-3379/67897-913379/3392.ts
-
-#EXTINF:-1 tvg-id="deb24" group-title="debugging/test CH 666", DEB 24
-http://starhub.pro/live/farhat-3379/67897-913379/3393.ts
 
 #EXTINF:-1 tvg-id="deb25" group-title="debugging/test CH 666", DEB 25
 http://starhub.pro/live/farhat-3379/67897-913379/3394.ts
@@ -1266,12 +1203,6 @@ http://starhub.pro/live/farhat-3379/67897-913379/3405.ts
 #EXTINF:-1 tvg-id="deb37" group-title="debugging/test CH 666", DEB 37
 http://starhub.pro/live/farhat-3379/67897-913379/3406.ts
 
-#EXTINF:-1 tvg-id="deb38" group-title="debugging/test CH 666", DEB 38
-http://starhub.pro/live/farhat-3379/67897-913379/3407.ts
-
-#EXTINF:-1 tvg-id="deb39" group-title="debugging/test CH 666", DEB 39
-http://starhub.pro/live/farhat-3379/67897-913379/3408.ts
-
 #EXTINF:-1 tvg-id="deb40" group-title="debugging/test CH 666", DEB 40
 http://starhub.pro/live/farhat-3379/67897-913379/3409.ts
 
@@ -1305,19 +1236,19 @@ http://starhub.pro/live/farhat-3379/67897-913379/3418.ts
 #EXTINF:-1 tvg-id="deb50" group-title="debugging/test CH 666", DEB 50
 http://starhub.pro/live/farhat-3379/67897-913379/3419.ts
 
-#EXTINF:-1 tvg-id="deb51" group-title="debugging/test CH 666", DEB 51
+#EXTINF:-1 tvg-id="deb51" group-title="debugging/test CH 666", DEB 51 - FOXSPORT 1
 http://starhub.pro/live/farhat-3379/67897-913379/3420.ts
 
-#EXTINF:-1 tvg-id="deb52" group-title="debugging/test CH 666", DEB 52
+#EXTINF:-1 tvg-id="deb52" group-title="debugging/test CH 666", DEB 52 - FOXSPORT 2
 http://starhub.pro/live/farhat-3379/67897-913379/3421.ts
 
 #EXTINF:-1 tvg-id="deb53" group-title="debugging/test CH 666", DEB 53
 http://starhub.pro/live/farhat-3379/67897-913379/3422.ts
 
-#EXTINF:-1 tvg-id="deb54" group-title="debugging/test CH 666", DEB 54
+#EXTINF:-1 tvg-id="deb54" group-title="debugging/test CH 666", DEB 54 - CBS SPORT
 http://starhub.pro/live/farhat-3379/67897-913379/3423.ts
 
-#EXTINF:-1 tvg-id="deb55" group-title="debugging/test CH 666", DEB 55
+#EXTINF:-1 tvg-id="deb55" group-title="debugging/test CH 666", DEB 55 - FOX US
 http://starhub.pro/live/farhat-3379/67897-913379/3424.ts
 
 #EXTINF:-1 tvg-id="deb56" group-title="debugging/test CH 666", DEB 56
@@ -1334,123 +1265,3 @@ http://starhub.pro/live/farhat-3379/67897-913379/3428.ts
 
 #EXTINF:-1 tvg-id="deb60" group-title="debugging/test CH 666", DEB 60
 http://starhub.pro/live/farhat-3379/67897-913379/3429.ts
-
-#EXTINF:-1 tvg-id="deb61" group-title="debugging/test CH 666", DEB 61
-http://starhub.pro/live/farhat-3379/67897-913379/3430.ts
-
-#EXTINF:-1 tvg-id="deb62" group-title="debugging/test CH 666", DEB 62
-http://starhub.pro/live/farhat-3379/67897-913379/3431.ts
-
-#EXTINF:-1 tvg-id="deb63" group-title="debugging/test CH 666", DEB 63
-http://starhub.pro/live/farhat-3379/67897-913379/3432.ts
-
-#EXTINF:-1 tvg-id="deb64" group-title="debugging/test CH 666", DEB 64
-http://starhub.pro/live/farhat-3379/67897-913379/3433.ts
-
-#EXTINF:-1 tvg-id="deb65" group-title="debugging/test CH 666", DEB 65
-http://starhub.pro/live/farhat-3379/67897-913379/3434.ts
-
-#EXTINF:-1 tvg-id="deb66" group-title="debugging/test CH 666", DEB 66
-http://starhub.pro/live/farhat-3379/67897-913379/3435.ts
-
-#EXTINF:-1 tvg-id="deb67" group-title="debugging/test CH 666", DEB 67
-http://starhub.pro/live/farhat-3379/67897-913379/3436.ts
-
-#EXTINF:-1 tvg-id="deb68" group-title="debugging/test CH 666", DEB 68
-http://starhub.pro/live/farhat-3379/67897-913379/3437.ts
-
-#EXTINF:-1 tvg-id="deb69" group-title="debugging/test CH 666", DEB 69
-http://starhub.pro/live/farhat-3379/67897-913379/3438.ts
-
-#EXTINF:-1 tvg-id="deb70" group-title="debugging/test CH 666", DEB 70
-http://starhub.pro/live/farhat-3379/67897-913379/3439.ts
-
-#EXTINF:-1 tvg-id="deb71" group-title="debugging/test CH 666", DEB 71
-http://starhub.pro/live/farhat-3379/67897-913379/3440.ts
-
-#EXTINF:-1 tvg-id="deb72" group-title="debugging/test CH 666", DEB 72
-http://starhub.pro/live/farhat-3379/67897-913379/3441.ts
-
-#EXTINF:-1 tvg-id="deb73" group-title="debugging/test CH 666", DEB 73
-http://starhub.pro/live/farhat-3379/67897-913379/3442.ts
-
-#EXTINF:-1 tvg-id="deb74" group-title="debugging/test CH 666", DEB 74
-http://starhub.pro/live/farhat-3379/67897-913379/3443.ts
-
-#EXTINF:-1 tvg-id="deb75" group-title="debugging/test CH 666", DEB 75
-http://starhub.pro/live/farhat-3379/67897-913379/3444.ts
-
-#EXTINF:-1 tvg-id="deb76" group-title="debugging/test CH 666", DEB 76
-http://starhub.pro/live/farhat-3379/67897-913379/3445.ts
-
-#EXTINF:-1 tvg-id="deb77" group-title="debugging/test CH 666", DEB 77
-http://starhub.pro/live/farhat-3379/67897-913379/3446.ts
-
-#EXTINF:-1 tvg-id="deb78" group-title="debugging/test CH 666", DEB 78
-http://starhub.pro/live/farhat-3379/67897-913379/3447.ts
-
-#EXTINF:-1 tvg-id="deb79" group-title="debugging/test CH 666", DEB 79
-http://starhub.pro/live/farhat-3379/67897-913379/3448.ts
-
-#EXTINF:-1 tvg-id="deb80" group-title="debugging/test CH 666", DEB 80
-http://starhub.pro/live/farhat-3379/67897-913379/3449.ts
-
-#EXTINF:-1 tvg-id="deb81" group-title="debugging/test CH 666", DEB 81
-http://starhub.pro/live/farhat-3379/67897-913379/3450.ts
-
-#EXTINF:-1 tvg-id="deb82" group-title="debugging/test CH 666", DEB 82
-http://starhub.pro/live/farhat-3379/67897-913379/3451.ts
-
-#EXTINF:-1 tvg-id="deb83" group-title="debugging/test CH 666", DEB 83
-http://starhub.pro/live/farhat-3379/67897-913379/3452.ts
-
-#EXTINF:-1 tvg-id="deb84" group-title="debugging/test CH 666", DEB 84
-http://starhub.pro/live/farhat-3379/67897-913379/3453.ts
-
-#EXTINF:-1 tvg-id="deb85" group-title="debugging/test CH 666", DEB 85
-http://starhub.pro/live/farhat-3379/67897-913379/3454.ts
-
-#EXTINF:-1 tvg-id="deb86" group-title="debugging/test CH 666", DEB 86
-http://starhub.pro/live/farhat-3379/67897-913379/3455.ts
-
-#EXTINF:-1 tvg-id="deb87" group-title="debugging/test CH 666", DEB 87
-http://starhub.pro/live/farhat-3379/67897-913379/3456.ts
-
-#EXTINF:-1 tvg-id="deb88" group-title="debugging/test CH 666", DEB 88
-http://starhub.pro/live/farhat-3379/67897-913379/3457.ts
-
-#EXTINF:-1 tvg-id="deb89" group-title="debugging/test CH 666", DEB 89
-http://starhub.pro/live/farhat-3379/67897-913379/3458.ts
-
-#EXTINF:-1 tvg-id="deb90" group-title="debugging/test CH 666", DEB 90
-http://starhub.pro/live/farhat-3379/67897-913379/3459.ts
-
-#EXTINF:-1 tvg-id="deb91" group-title="debugging/test CH 666", DEB 91
-http://starhub.pro/live/farhat-3379/67897-913379/3460.ts
-
-#EXTINF:-1 tvg-id="deb92" group-title="debugging/test CH 666", DEB 92
-http://starhub.pro/live/farhat-3379/67897-913379/3461.ts
-
-#EXTINF:-1 tvg-id="deb93" group-title="debugging/test CH 666", DEB 93
-http://starhub.pro/live/farhat-3379/67897-913379/3462.ts
-
-#EXTINF:-1 tvg-id="deb94" group-title="debugging/test CH 666", DEB 94
-http://starhub.pro/live/farhat-3379/67897-913379/3463.ts
-
-#EXTINF:-1 tvg-id="deb95" group-title="debugging/test CH 666", DEB 95
-http://starhub.pro/live/farhat-3379/67897-913379/3464.ts
-
-#EXTINF:-1 tvg-id="deb96" group-title="debugging/test CH 666", DEB 96
-http://starhub.pro/live/farhat-3379/67897-913379/3465.ts
-
-#EXTINF:-1 tvg-id="deb97" group-title="debugging/test CH 666", DEB 97
-http://starhub.pro/live/farhat-3379/67897-913379/3466.ts
-
-#EXTINF:-1 tvg-id="deb98" group-title="debugging/test CH 666", DEB 98
-http://starhub.pro/live/farhat-3379/67897-913379/3467.ts
-
-#EXTINF:-1 tvg-id="deb99" group-title="debugging/test CH 666", DEB 99
-http://starhub.pro/live/farhat-3379/67897-913379/3468.ts
-
-#EXTINF:-1 tvg-id="deb100" group-title="debugging/test CH 666", DEB 100
-http://starhub.pro/live/farhat-3379/67897-913379/3469.ts
