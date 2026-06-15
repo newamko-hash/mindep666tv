@@ -186,9 +186,9 @@ http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
 #EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="3af0c0ee9a250b43bc461c5b9eb60949", WORLDCUP616 UHD 4K
 http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1" tvg-logo="https://i.ibb.co/vx6X9LXV/FS1.jpg" group-title="Fifa World Cup 2026", Fox Sports 1 UPDATED
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="Fifa World Cup 2026", Fox Sports 1 UPDATED
 http://starhub.pro/live/farhat-3379/67897-913379/3420.ts
-#EXTINF:-1 data-source="Manual" Group-title="Fifa World Cup 2026" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", Fox Sports 2 UPDATED
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="FS2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="Fifa World Cup 2026", Fox Sports 2 UPDATED
 http://starhub.pro/live/farhat-3379/67897-913379/3421.ts
 
 #EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="ff940d9bfaff747139ae375c8c94f21a",CH1
@@ -1155,32 +1155,302 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
 
 
 
-#EXTINF:-1 data-source="Manual" Group-title="debugging/test" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", DEB 1
-http://starhub.pro/live/farhat-3379/67897-913379/3419.ts
+#EXTINF:-1 tvg-id="deb1" group-title="debugging/test CH 666", DEB 1
+http://starhub.pro/live/farhat-3379/67897-913379/3370.ts
 
-#EXTINF:-1 data-source="Manual" Group-title="debugging/test by 666" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", DEB 2
-http://starhub.pro/live/farhat-3379/67897-913379/3420.ts
+#EXTINF:-1 tvg-id="deb2" group-title="debugging/test CH 666", DEB 2
+http://starhub.pro/live/farhat-3379/67897-913379/3371.ts
 
-#EXTINF:-1 data-source="Manual" Group-title="debugging/test" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", DEB 3
-http://starhub.pro/live/farhat-3379/67897-913379/3421.ts
+#EXTINF:-1 tvg-id="deb3" group-title="debugging/test CH 666", DEB 3
+http://starhub.pro/live/farhat-3379/67897-913379/3372.ts
 
-#EXTINF:-1 data-source="Manual" Group-title="debugging/test by 666" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", DEB 4
-http://starhub.pro/live/farhat-3379/67897-913379/3422.ts
+#EXTINF:-1 tvg-id="deb4" group-title="debugging/test CH 666", DEB 4
+http://starhub.pro/live/farhat-3379/67897-913379/3373.ts
 
-#EXTINF:-1 data-source="Manual" Group-title="debugging/test" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", DEB 5
-http://starhub.pro/live/farhat-3379/67897-913379/3423.ts
+#EXTINF:-1 tvg-id="deb5" group-title="debugging/test CH 666", DEB 5
+http://starhub.pro/live/farhat-3379/67897-913379/3374.ts
 
-#EXTINF:-1 data-source="Manual" Group-title="debugging/test by 666" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", DEB 6
-http://starhub.pro/live/farhat-3379/67897-913379/3424.ts
+#EXTINF:-1 tvg-id="deb6" group-title="debugging/test CH 666", DEB 6
+http://starhub.pro/live/farhat-3379/67897-913379/3375.ts
 
-#EXTINF:-1 data-source="Manual" Group-title="debugging/test" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", DEB 7
-http://starhub.pro/live/farhat-3379/67897-913379/3425.ts
+#EXTINF:-1 tvg-id="deb7" group-title="debugging/test CH 666", DEB 7
+http://starhub.pro/live/farhat-3379/67897-913379/3376.ts
 
-#EXTINF:-1 data-source="Manual" Group-title="debugging/test by 666" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", DEB 8
-http://starhub.pro/live/farhat-3379/67897-913379/3426.ts
+#EXTINF:-1 tvg-id="deb8" group-title="debugging/test CH 666", DEB 8
+http://starhub.pro/live/farhat-3379/67897-913379/3377.ts
 
-#EXTINF:-1 data-source="Manual" Group-title="debugging/test" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", DEB 9
+#EXTINF:-1 tvg-id="deb9" group-title="debugging/test CH 666", DEB 9
+http://starhub.pro/live/farhat-3379/67897-913379/3378.ts
+
+#EXTINF:-1 tvg-id="deb10" group-title="debugging/test CH 666", DEB 10
+http://starhub.pro/live/farhat-3379/67897-913379/3379.ts
+
+#EXTINF:-1 tvg-id="deb11" group-title="debugging/test CH 666", DEB 11
+http://starhub.pro/live/farhat-3379/67897-913379/3380.ts
+
+#EXTINF:-1 tvg-id="deb12" group-title="debugging/test CH 666", DEB 12
+http://starhub.pro/live/farhat-3379/67897-913379/3381.ts
+
+#EXTINF:-1 tvg-id="deb13" group-title="debugging/test CH 666", DEB 13
+http://starhub.pro/live/farhat-3379/67897-913379/3382.ts
+
+#EXTINF:-1 tvg-id="deb14" group-title="debugging/test CH 666", DEB 14
+http://starhub.pro/live/farhat-3379/67897-913379/3383.ts
+
+#EXTINF:-1 tvg-id="deb15" group-title="debugging/test CH 666", DEB 15
+http://starhub.pro/live/farhat-3379/67897-913379/3384.ts
+
+#EXTINF:-1 tvg-id="deb16" group-title="debugging/test CH 666", DEB 16
+http://starhub.pro/live/farhat-3379/67897-913379/3385.ts
+
+#EXTINF:-1 tvg-id="deb17" group-title="debugging/test CH 666", DEB 17
+http://starhub.pro/live/farhat-3379/67897-913379/3386.ts
+
+#EXTINF:-1 tvg-id="deb18" group-title="debugging/test CH 666", DEB 18
+http://starhub.pro/live/farhat-3379/67897-913379/3387.ts
+
+#EXTINF:-1 tvg-id="deb19" group-title="debugging/test CH 666", DEB 19
+http://starhub.pro/live/farhat-3379/67897-913379/3388.ts
+
+#EXTINF:-1 tvg-id="deb20" group-title="debugging/test CH 666", DEB 20
+http://starhub.pro/live/farhat-3379/67897-913379/3389.ts
+
+#EXTINF:-1 tvg-id="deb21" group-title="debugging/test CH 666", DEB 21
+http://starhub.pro/live/farhat-3379/67897-913379/3390.ts
+
+#EXTINF:-1 tvg-id="deb22" group-title="debugging/test CH 666", DEB 22
+http://starhub.pro/live/farhat-3379/67897-913379/3391.ts
+
+#EXTINF:-1 tvg-id="deb23" group-title="debugging/test CH 666", DEB 23
+http://starhub.pro/live/farhat-3379/67897-913379/3392.ts
+
+#EXTINF:-1 tvg-id="deb24" group-title="debugging/test CH 666", DEB 24
+http://starhub.pro/live/farhat-3379/67897-913379/3393.ts
+
+#EXTINF:-1 tvg-id="deb25" group-title="debugging/test CH 666", DEB 25
+http://starhub.pro/live/farhat-3379/67897-913379/3394.ts
+
+#EXTINF:-1 tvg-id="deb26" group-title="debugging/test CH 666", DEB 26
+http://starhub.pro/live/farhat-3379/67897-913379/3395.ts
+
+#EXTINF:-1 tvg-id="deb27" group-title="debugging/test CH 666", DEB 27
+http://starhub.pro/live/farhat-3379/67897-913379/3396.ts
+
+#EXTINF:-1 tvg-id="deb28" group-title="debugging/test CH 666", DEB 28
+http://starhub.pro/live/farhat-3379/67897-913379/3397.ts
+
+#EXTINF:-1 tvg-id="deb29" group-title="debugging/test CH 666", DEB 29
+http://starhub.pro/live/farhat-3379/67897-913379/3398.ts
+
+#EXTINF:-1 tvg-id="deb30" group-title="debugging/test CH 666", DEB 30
+http://starhub.pro/live/farhat-3379/67897-913379/3399.ts
+
+#EXTINF:-1 tvg-id="deb31" group-title="debugging/test CH 666", DEB 31
+http://starhub.pro/live/farhat-3379/67897-913379/3400.ts
+
+#EXTINF:-1 tvg-id="deb32" group-title="debugging/test CH 666", DEB 32
+http://starhub.pro/live/farhat-3379/67897-913379/3401.ts
+
+#EXTINF:-1 tvg-id="deb33" group-title="debugging/test CH 666", DEB 33
+http://starhub.pro/live/farhat-3379/67897-913379/3402.ts
+
+#EXTINF:-1 tvg-id="deb34" group-title="debugging/test CH 666", DEB 34
+http://starhub.pro/live/farhat-3379/67897-913379/3403.ts
+
+#EXTINF:-1 tvg-id="deb35" group-title="debugging/test CH 666", DEB 35
+http://starhub.pro/live/farhat-3379/67897-913379/3404.ts
+
+#EXTINF:-1 tvg-id="deb36" group-title="debugging/test CH 666", DEB 36
+http://starhub.pro/live/farhat-3379/67897-913379/3405.ts
+
+#EXTINF:-1 tvg-id="deb37" group-title="debugging/test CH 666", DEB 37
+http://starhub.pro/live/farhat-3379/67897-913379/3406.ts
+
+#EXTINF:-1 tvg-id="deb38" group-title="debugging/test CH 666", DEB 38
+http://starhub.pro/live/farhat-3379/67897-913379/3407.ts
+
+#EXTINF:-1 tvg-id="deb39" group-title="debugging/test CH 666", DEB 39
+http://starhub.pro/live/farhat-3379/67897-913379/3408.ts
+
+#EXTINF:-1 tvg-id="deb40" group-title="debugging/test CH 666", DEB 40
+http://starhub.pro/live/farhat-3379/67897-913379/3409.ts
+
+#EXTINF:-1 tvg-id="deb41" group-title="debugging/test CH 666", DEB 41
+http://starhub.pro/live/farhat-3379/67897-913379/3410.ts
+
+#EXTINF:-1 tvg-id="deb42" group-title="debugging/test CH 666", DEB 42
+http://starhub.pro/live/farhat-3379/67897-913379/3411.ts
+
+#EXTINF:-1 tvg-id="deb43" group-title="debugging/test CH 666", DEB 43
+http://starhub.pro/live/farhat-3379/67897-913379/3412.ts
+
+#EXTINF:-1 tvg-id="deb44" group-title="debugging/test CH 666", DEB 44
+http://starhub.pro/live/farhat-3379/67897-913379/3413.ts
+
+#EXTINF:-1 tvg-id="deb45" group-title="debugging/test CH 666", DEB 45
+http://starhub.pro/live/farhat-3379/67897-913379/3414.ts
+
+#EXTINF:-1 tvg-id="deb46" group-title="debugging/test CH 666", DEB 46
+http://starhub.pro/live/farhat-3379/67897-913379/3415.ts
+
+#EXTINF:-1 tvg-id="deb47" group-title="debugging/test CH 666", DEB 47
+http://starhub.pro/live/farhat-3379/67897-913379/3416.ts
+
+#EXTINF:-1 tvg-id="deb48" group-title="debugging/test CH 666", DEB 48
 http://starhub.pro/live/farhat-3379/67897-913379/3417.ts
 
-#EXTINF:-1 data-source="Manual" Group-title="debugging/test by 666" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", DEB 10
+#EXTINF:-1 tvg-id="deb49" group-title="debugging/test CH 666", DEB 49
+http://starhub.pro/live/farhat-3379/67897-913379/3418.ts
+
+#EXTINF:-1 tvg-id="deb50" group-title="debugging/test CH 666", DEB 50
+http://starhub.pro/live/farhat-3379/67897-913379/3419.ts
+
+#EXTINF:-1 tvg-id="deb51" group-title="debugging/test CH 666", DEB 51
+http://starhub.pro/live/farhat-3379/67897-913379/3420.ts
+
+#EXTINF:-1 tvg-id="deb52" group-title="debugging/test CH 666", DEB 52
+http://starhub.pro/live/farhat-3379/67897-913379/3421.ts
+
+#EXTINF:-1 tvg-id="deb53" group-title="debugging/test CH 666", DEB 53
+http://starhub.pro/live/farhat-3379/67897-913379/3422.ts
+
+#EXTINF:-1 tvg-id="deb54" group-title="debugging/test CH 666", DEB 54
+http://starhub.pro/live/farhat-3379/67897-913379/3423.ts
+
+#EXTINF:-1 tvg-id="deb55" group-title="debugging/test CH 666", DEB 55
+http://starhub.pro/live/farhat-3379/67897-913379/3424.ts
+
+#EXTINF:-1 tvg-id="deb56" group-title="debugging/test CH 666", DEB 56
+http://starhub.pro/live/farhat-3379/67897-913379/3425.ts
+
+#EXTINF:-1 tvg-id="deb57" group-title="debugging/test CH 666", DEB 57
+http://starhub.pro/live/farhat-3379/67897-913379/3426.ts
+
+#EXTINF:-1 tvg-id="deb58" group-title="debugging/test CH 666", DEB 58
+http://starhub.pro/live/farhat-3379/67897-913379/3427.ts
+
+#EXTINF:-1 tvg-id="deb59" group-title="debugging/test CH 666", DEB 59
 http://starhub.pro/live/farhat-3379/67897-913379/3428.ts
+
+#EXTINF:-1 tvg-id="deb60" group-title="debugging/test CH 666", DEB 60
+http://starhub.pro/live/farhat-3379/67897-913379/3429.ts
+
+#EXTINF:-1 tvg-id="deb61" group-title="debugging/test CH 666", DEB 61
+http://starhub.pro/live/farhat-3379/67897-913379/3430.ts
+
+#EXTINF:-1 tvg-id="deb62" group-title="debugging/test CH 666", DEB 62
+http://starhub.pro/live/farhat-3379/67897-913379/3431.ts
+
+#EXTINF:-1 tvg-id="deb63" group-title="debugging/test CH 666", DEB 63
+http://starhub.pro/live/farhat-3379/67897-913379/3432.ts
+
+#EXTINF:-1 tvg-id="deb64" group-title="debugging/test CH 666", DEB 64
+http://starhub.pro/live/farhat-3379/67897-913379/3433.ts
+
+#EXTINF:-1 tvg-id="deb65" group-title="debugging/test CH 666", DEB 65
+http://starhub.pro/live/farhat-3379/67897-913379/3434.ts
+
+#EXTINF:-1 tvg-id="deb66" group-title="debugging/test CH 666", DEB 66
+http://starhub.pro/live/farhat-3379/67897-913379/3435.ts
+
+#EXTINF:-1 tvg-id="deb67" group-title="debugging/test CH 666", DEB 67
+http://starhub.pro/live/farhat-3379/67897-913379/3436.ts
+
+#EXTINF:-1 tvg-id="deb68" group-title="debugging/test CH 666", DEB 68
+http://starhub.pro/live/farhat-3379/67897-913379/3437.ts
+
+#EXTINF:-1 tvg-id="deb69" group-title="debugging/test CH 666", DEB 69
+http://starhub.pro/live/farhat-3379/67897-913379/3438.ts
+
+#EXTINF:-1 tvg-id="deb70" group-title="debugging/test CH 666", DEB 70
+http://starhub.pro/live/farhat-3379/67897-913379/3439.ts
+
+#EXTINF:-1 tvg-id="deb71" group-title="debugging/test CH 666", DEB 71
+http://starhub.pro/live/farhat-3379/67897-913379/3440.ts
+
+#EXTINF:-1 tvg-id="deb72" group-title="debugging/test CH 666", DEB 72
+http://starhub.pro/live/farhat-3379/67897-913379/3441.ts
+
+#EXTINF:-1 tvg-id="deb73" group-title="debugging/test CH 666", DEB 73
+http://starhub.pro/live/farhat-3379/67897-913379/3442.ts
+
+#EXTINF:-1 tvg-id="deb74" group-title="debugging/test CH 666", DEB 74
+http://starhub.pro/live/farhat-3379/67897-913379/3443.ts
+
+#EXTINF:-1 tvg-id="deb75" group-title="debugging/test CH 666", DEB 75
+http://starhub.pro/live/farhat-3379/67897-913379/3444.ts
+
+#EXTINF:-1 tvg-id="deb76" group-title="debugging/test CH 666", DEB 76
+http://starhub.pro/live/farhat-3379/67897-913379/3445.ts
+
+#EXTINF:-1 tvg-id="deb77" group-title="debugging/test CH 666", DEB 77
+http://starhub.pro/live/farhat-3379/67897-913379/3446.ts
+
+#EXTINF:-1 tvg-id="deb78" group-title="debugging/test CH 666", DEB 78
+http://starhub.pro/live/farhat-3379/67897-913379/3447.ts
+
+#EXTINF:-1 tvg-id="deb79" group-title="debugging/test CH 666", DEB 79
+http://starhub.pro/live/farhat-3379/67897-913379/3448.ts
+
+#EXTINF:-1 tvg-id="deb80" group-title="debugging/test CH 666", DEB 80
+http://starhub.pro/live/farhat-3379/67897-913379/3449.ts
+
+#EXTINF:-1 tvg-id="deb81" group-title="debugging/test CH 666", DEB 81
+http://starhub.pro/live/farhat-3379/67897-913379/3450.ts
+
+#EXTINF:-1 tvg-id="deb82" group-title="debugging/test CH 666", DEB 82
+http://starhub.pro/live/farhat-3379/67897-913379/3451.ts
+
+#EXTINF:-1 tvg-id="deb83" group-title="debugging/test CH 666", DEB 83
+http://starhub.pro/live/farhat-3379/67897-913379/3452.ts
+
+#EXTINF:-1 tvg-id="deb84" group-title="debugging/test CH 666", DEB 84
+http://starhub.pro/live/farhat-3379/67897-913379/3453.ts
+
+#EXTINF:-1 tvg-id="deb85" group-title="debugging/test CH 666", DEB 85
+http://starhub.pro/live/farhat-3379/67897-913379/3454.ts
+
+#EXTINF:-1 tvg-id="deb86" group-title="debugging/test CH 666", DEB 86
+http://starhub.pro/live/farhat-3379/67897-913379/3455.ts
+
+#EXTINF:-1 tvg-id="deb87" group-title="debugging/test CH 666", DEB 87
+http://starhub.pro/live/farhat-3379/67897-913379/3456.ts
+
+#EXTINF:-1 tvg-id="deb88" group-title="debugging/test CH 666", DEB 88
+http://starhub.pro/live/farhat-3379/67897-913379/3457.ts
+
+#EXTINF:-1 tvg-id="deb89" group-title="debugging/test CH 666", DEB 89
+http://starhub.pro/live/farhat-3379/67897-913379/3458.ts
+
+#EXTINF:-1 tvg-id="deb90" group-title="debugging/test CH 666", DEB 90
+http://starhub.pro/live/farhat-3379/67897-913379/3459.ts
+
+#EXTINF:-1 tvg-id="deb91" group-title="debugging/test CH 666", DEB 91
+http://starhub.pro/live/farhat-3379/67897-913379/3460.ts
+
+#EXTINF:-1 tvg-id="deb92" group-title="debugging/test CH 666", DEB 92
+http://starhub.pro/live/farhat-3379/67897-913379/3461.ts
+
+#EXTINF:-1 tvg-id="deb93" group-title="debugging/test CH 666", DEB 93
+http://starhub.pro/live/farhat-3379/67897-913379/3462.ts
+
+#EXTINF:-1 tvg-id="deb94" group-title="debugging/test CH 666", DEB 94
+http://starhub.pro/live/farhat-3379/67897-913379/3463.ts
+
+#EXTINF:-1 tvg-id="deb95" group-title="debugging/test CH 666", DEB 95
+http://starhub.pro/live/farhat-3379/67897-913379/3464.ts
+
+#EXTINF:-1 tvg-id="deb96" group-title="debugging/test CH 666", DEB 96
+http://starhub.pro/live/farhat-3379/67897-913379/3465.ts
+
+#EXTINF:-1 tvg-id="deb97" group-title="debugging/test CH 666", DEB 97
+http://starhub.pro/live/farhat-3379/67897-913379/3466.ts
+
+#EXTINF:-1 tvg-id="deb98" group-title="debugging/test CH 666", DEB 98
+http://starhub.pro/live/farhat-3379/67897-913379/3467.ts
+
+#EXTINF:-1 tvg-id="deb99" group-title="debugging/test CH 666", DEB 99
+http://starhub.pro/live/farhat-3379/67897-913379/3468.ts
+
+#EXTINF:-1 tvg-id="deb100" group-title="debugging/test CH 666", DEB 100
+http://starhub.pro/live/farhat-3379/67897-913379/3469.ts
