@@ -183,8 +183,13 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 #EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="6b232b464d32a714320dc85a1ece2c8b", FUSSEBALL TV 2 GERMANY FHD
 http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
-#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="3af0c0ee9a250b43bc461c5b9eb60949", WORLDCUP616 4K UHD
+#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="3af0c0ee9a250b43bc461c5b9eb60949", WORLDCUP616 UHD 4K
 http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
+
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1" tvg-logo="https://i.ibb.co/vx6X9LXV/FS1.jpg" group-title="Fifa World Cup 2026", Fox Sports 1 UPDATED
+http://starhub.pro/live/farhat-3379/67897-913379/3420.ts
+#EXTINF:-1 data-source="Manual" Group-title="Fifa World Cup 2026" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", Fox Sports 2 UPDATED
+http://starhub.pro/live/farhat-3379/67897-913379/3421.ts
 
 #EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="ff940d9bfaff747139ae375c8c94f21a",CH1
 http://starhub.pro/live/farhat-3379/67897-913379/745149.ts
@@ -194,30 +199,6 @@ http://starhub.pro/live/farhat-3379/67897-913379/745211.ts
 http://starhub.pro/live/farhat-3379/67897-913379/745195.ts
 #EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="21f6494addfbf8f62f453367078463f0",CH4
 http://starhub.pro/live/farhat-3379/67897-913379/741566.ts
-
-#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="99eae70addcde1624d9875d45280e359",TSN 1 CA / BACKUP
-http://myxpanel.pro/live/Melo/Melo/3996.ts
-#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="76360652a91a9d9b4a9417455434630d",TSN 4 CA / BACKUP
-http://myxpanel.pro/live/Melo/Melo/3993.ts
-
-#EXTINF:-1 tvg-uid="86ce70fd8ef8bcb6fe73dda4bc53738e" data-source="TV_Amrik" tvg-chno="134" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="Fifa World Cup 2026",TSN1 US / BACKUP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
-
-#EXTINF:-1 tvg-uid="ac44f89a4f5f55b02783b657bd8dd06b" data-source="TV_Amrik" tvg-chno="135" tvg-id="TSN.2.ca2" tvg-name="TSN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61474_dark_360w_270h.png" group-title="Fifa World Cup 2026",TSN2 US /BACKUP
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
-
-
-
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1" tvg-logo="https://i.ibb.co/vx6X9LXV/FS1.jpg" group-title="Fifa World Cup 2026", Fox Sports 1
-http://starhub.pro/live/farhat-3379/67897-913379/3420.ts
-#EXTINF:-1 data-source="Manual" Group-title="Fifa World Cup 2026" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", Fox Sports 2
-http://starhub.pro/live/farhat-3379/67897-913379/3421.ts
-#EXTINF:-1 data-source="Manual" Group-title="Fifa World Cup 2026" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", Fox??
-http://starhub.pro/live/farhat-3379/67897-913379/3419.ts
-
-#EXTINF:-1 tvg-chno="65" tvg-id="WJBK-DT.us_locals1" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="Fifa World Cup 2026", Fox (United States)
-http://stream.cammonitorplus.net/1772/index.m3u8
 
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two" tvg-logo="https://i.ibb.co/7vG6Nvz/BBC-Two.png" group-title="Fifa World Cup 2026", BBC Two (United Kingdom)
 http://xemzi.short.gy/1000002
@@ -1156,4 +1137,50 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 #KODIPROP:inputstream.adaptive.license_key=069f3495380f3d25a8c03477067f7d1b:7d9dbf8134535e1665e914fb7134ce47
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd
 
+#EXTINF:-1 tvg-chno="65" tvg-id="WJBK-DT.us_locals1" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="Backup-Worldcup", 16 (FOX United States)
+http://stream.cammonitorplus.net/1772/index.m3u8
 
+#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" tvg-uid="99eae70addcde1624d9875d45280e359",17 (TSN 1 CA / BACKUP)
+http://myxpanel.pro/live/Melo/Melo/3996.ts
+#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" tvg-uid="76360652a91a9d9b4a9417455434630d",18 (TSN 4 CA / BACKUP)
+http://myxpanel.pro/live/Melo/Melo/3993.ts
+
+#EXTINF:-1 tvg-uid="86ce70fd8ef8bcb6fe73dda4bc53738e" data-source="TV_Amrik" tvg-chno="134" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="Fifa World Cup 2026",19 (TSN 1 US / BACKUP)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
+
+#EXTINF:-1 tvg-uid="ac44f89a4f5f55b02783b657bd8dd06b" data-source="TV_Amrik" tvg-chno="135" tvg-id="TSN.2.ca2" tvg-name="TSN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61474_dark_360w_270h.png" group-title="Fifa World Cup 2026",20 (TSN 2 US / BACKUP)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
+
+
+
+
+#EXTINF:-1 data-source="Manual" Group-title="debugging/test" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", DEB 1
+http://starhub.pro/live/farhat-3379/67897-913379/3419.ts
+
+#EXTINF:-1 data-source="Manual" Group-title="debugging/test by 666" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", DEB 2
+http://starhub.pro/live/farhat-3379/67897-913379/3420.ts
+
+#EXTINF:-1 data-source="Manual" Group-title="debugging/test" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", DEB 3
+http://starhub.pro/live/farhat-3379/67897-913379/3421.ts
+
+#EXTINF:-1 data-source="Manual" Group-title="debugging/test by 666" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", DEB 4
+http://starhub.pro/live/farhat-3379/67897-913379/3422.ts
+
+#EXTINF:-1 data-source="Manual" Group-title="debugging/test" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", DEB 5
+http://starhub.pro/live/farhat-3379/67897-913379/3423.ts
+
+#EXTINF:-1 data-source="Manual" Group-title="debugging/test by 666" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", DEB 6
+http://starhub.pro/live/farhat-3379/67897-913379/3424.ts
+
+#EXTINF:-1 data-source="Manual" Group-title="debugging/test" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", DEB 7
+http://starhub.pro/live/farhat-3379/67897-913379/3425.ts
+
+#EXTINF:-1 data-source="Manual" Group-title="debugging/test by 666" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", DEB 8
+http://starhub.pro/live/farhat-3379/67897-913379/3426.ts
+
+#EXTINF:-1 data-source="Manual" Group-title="debugging/test" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", DEB 9
+http://starhub.pro/live/farhat-3379/67897-913379/3417.ts
+
+#EXTINF:-1 data-source="Manual" Group-title="debugging/test by 666" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png" tvg-uid="5336bd0431a6f40d118a3ee6e3a7e3d2", DEB 10
+http://starhub.pro/live/farhat-3379/67897-913379/3428.ts
