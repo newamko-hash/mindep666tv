@@ -759,6 +759,54 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
+#EXTINF:-1 tvg-uid="f76e9998057b5742729afb28b505599d" data-source="Fawa Event" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FEED", [LIVE] [02:00 WIB] [FIFA World Cup] Belgium vs Egypt --- ENG HD (Fawa) [M1]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.41/hls/EGGGDDDD.m3u8
+#EXTINF:-1 tvg-uid="ab1d8ae0a39cd03e872f637299a900e3" data-source="Fawa Event" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FEED", [LIVE] [02:00 WIB] [FIFA World Cup] Belgium vs Egypt --- ENG HD (Fawa) [M2]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.47/hls/EGGGDDDDXU.m3u8
+
+#EXTINF:-1 tvg-uid="eb85b7076de2753f5f308c100b435750" data-source="Notnguyen" tvg-chno="25" tvg-id="Soccer.Dummy.us" tvg-name="[Fifa World Cup] Belgium - Egypt (Not Nguyen)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="FEED", [Fifa World Cup] 
+#EXTVLCOPT:http-referrer=https://exposestrat.com
+#EXTVLCOPT:http-origin=https://exposestrat.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdn13.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=qQ7dynvW-91QViK6Emce2g&expires=1781555443
+#EXTINF:-1 tvg-uid="e75aebcbfbecf850a66095f58fbe582f" data-source="Notnguyen" tvg-chno="14" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup 2026] Belgium vs Egypt (Not Nguyen)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="FEED", [FIFA World Cup 2026] 
+#EXTVLCOPT:http-referrer=https://exposestrat.com
+#EXTVLCOPT:http-origin=https://exposestrat.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdn9.zohanayaan.com:1686/hls/hdchnl1.m3u8?md5=VS2mK4UJYPHWi3qPLur0DQ&expires=1781554802
+#EXTINF:-1 tvg-uid="9e38f5b791a15cbec64d78e197be37e0" data-source="Notnguyen" tvg-chno="20" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Egypt vs Belgium (Not Nguyen)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="FEED", [FIFA World Cup] 
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb38e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3ODE1NjI2NDU2MTE6Y2RubGl2ZXR2LnR2OjkwOTA2OWYwYWI4ZjM2M2EuNDk2MGNiODA4YWI4MGI4MzZjZmFlNWFiNWQ4ODdkNzZjZTc4NzNiMjI4YTBkNDc4ZjFiYWMyOTQ2YzM2YmJiZA
+#EXTINF:-1 tvg-uid="10b6c2bf48edd38edfa2716005c07140" data-source="Notnguyen" tvg-chno="26" tvg-id="Soccer.Dummy.us" tvg-name="[Fifa World Cup] Spain - Cape Verde (Not Nguyen)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="FEED", [Fifa World Cup] 
+#EXTVLCOPT:http-referrer=https://exposestrat.com
+#EXTVLCOPT:http-origin=https://exposestrat.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdn13.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=_ogBSPZasSJrRb6qfLxJjQ&expires=1781557209
+#EXTINF:-1 data-source="Manual" group-title="FEED" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" tvg-uid="9d5b7e47dc9d44d70733ec87cc3ca99a", TVRI SPORT
+https://digital.tsender57.workers.dev/bc82b623e5/play/a05u/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
