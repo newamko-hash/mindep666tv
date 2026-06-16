@@ -1020,6 +1020,9 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts
 #EXTINF:-1 data-source="Manual" group-title="Backup-Worldcup" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="566e3277396a8a614d3e8d747acbbf28",Fusseball TV1 GERMANY FHD
 http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
 
+#EXTINF:-1 channel-id="5a74b8e1e22a61737979c6bf" tvg-id="5a74b8e1e22a61737979c6bf" tvg-chno="2790" tvg-name="FOX Sports" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Backup-Worldcup",FOX Sports
+https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
+
 #EXTINF:-1 tvg-id="TelemundoEast.us" group-title="Backup-Worldcup", 1 Backup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
