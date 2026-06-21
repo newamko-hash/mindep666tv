@@ -1,11 +1,8 @@
 #EXTM3U
-#EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" billed-msg="© 2026 root@mindep666⛔ || Premium = activated" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
+url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" billed-msg="© 2026 root@mindep666⛔ || Premium = activated" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
+url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg" refresh="3600" billed-msg="© 2026 root@mindep666⛔ || Premium active = true"
 
-#EXTM3U url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg" refresh="3600" billed-msg="© 2026 root@mindep666⛔ || Premium active = true"
 
-#EXTM3U
-#EXTINF:-1 group-title="🔴FIFA WORLD CUP 2026🔴"
-https://freeiptv2026.sepak7042.workers.dev/?group=🔴FIFA%20WORLD%20CUP%202026🔴
 
 # =============================== INDONESIA ================================================================================================== #
 
@@ -173,6 +170,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
 #EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="4fba21403a39c68573882366b84b25d4",TSN 1 CANADA FHD
 http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120273.ts
+#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="dc230100b99e8c864b751a9e1bd2fea1",TSN 2 CANADA FHD
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/1622
 
 
 
@@ -203,6 +202,28 @@ http://starhub.pro/live/farhat-3379/67897-913379/3421.ts
 #EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="3a724ea71b8486260c47feeb9773cb04",ITV 1 UnitedKingdom
 http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120268.ts
 
+#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="cf8a57740e78e30b0e65b4bc25b8f908", VIX MUNDIAL 90
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203
+https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd
+
+#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png" tvg-uid="cbb5e888ff4ab48cec9ea090fa837933",TUDN (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://168.228.44.241:9997/play/a09f
+
+#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tipik_2025.svg/1280px-Tipik_2025.svg.png" tvg-uid="0e908dbbb79c87745cb5adea6989d49d",RTBF TIPIK 2 (Belgium)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c736e5c8f5a4d1a8eb8af1e63aa2005:d1729111efdfb7727ee3e6fcbc7586e1
+https://daiconnect.com/live/dash/rtbf/tipik-56dfkkh-0epa3m40q/.mpd
+
+
+#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="ee3e467eb677f18a797efa9f6ab74761",Unite8 Sports 1
+http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-id="Unite8 Sports 2" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="4fe50335234ae668dbe6eaeb0f0df7da",Unite8 Sports 2
+http://starhub.pro/live/farhat-3379/67897-913379/98841.ts
+
+
 #EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="af684e7664c95cb4f1b4bbbf62dca834",NOW Sports 616 4K
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465865
 #EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="09cf0890242cd4db794e942c3078959b",NOW Sports 617 4K
@@ -212,16 +233,7 @@ http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465863
 #EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="8a622ebc638951424099dbda77f3648c",NOW Sports 619 FHD
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465861
 
-#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="cf8a57740e78e30b0e65b4bc25b8f908", VIX MUNDIAL 90
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203
-https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd
 
-#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="ee3e467eb677f18a797efa9f6ab74761",Unite8 Sports 1
-http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
-#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-id="Unite8 Sports 2" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="4fe50335234ae668dbe6eaeb0f0df7da",Unite8 Sports 2
-http://starhub.pro/live/farhat-3379/67897-913379/98841.ts
 
 
 #EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://object-streamo.emonaja.com/img/tntsports.png" group-title="Fifa World Cup 2026", TNT Sports 1
