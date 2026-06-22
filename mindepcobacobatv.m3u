@@ -51,6 +51,12 @@ http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120271.ts
 #EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="3a724ea71b8486260c47feeb9773cb04",RTE NEWS UnitedKingdom
 http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120270.ts
 
+#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="3a724ea71b8486260c47feeb9773cb04",TSN 1 (ALT)
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc172/playlist.m3u8
+#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="3a724ea71b8486260c47feeb9773cb04",TSN 5 (ALT)
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc179/playlist.m3u8
+#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="3a724ea71b8486260c47feeb9773cb04",beIN SPORT 5 English (ALT)
+https://fawatv.online/live/F2E62CEFFF6C6F88C237BD9DF4957C35/667.m3u8
 
 
 #EXTINF:-1 tvg-id="ITV_1_Server1" tvg-name="ITV 1 Server1"  tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Fifa World Cup 2026",ITV 1 UnitedKingdom (SERVER 2)
