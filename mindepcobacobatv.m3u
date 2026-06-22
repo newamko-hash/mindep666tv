@@ -829,6 +829,28 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts
 
 # =============================== DEBBUGGING/TEST ================================================================================================== #
 
+
+#EXTINF:-1 tvg-id="ITV_1_Server1" tvg-name="ITV 1 Server1" tvg-logo="https://center.urlix.co/storage/images/tTZte39nNuAZCrToHC7k5ShgNYaa9CclIljf2onx.png" group-title="debugging/test CH 666",DEB 6 - ITV 1 (SERVER 1)
+#EXTVLCOPT:http-referrer=https://beescore.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+http://192.129.159.196:8020/watch/9ab7e7d9-46d5-4c18-82f2-4bb83ef7ebe0/server1.m3u8
+
+#EXTINF:-1 tvg-id="ITV_2_Server1" tvg-name="ITV 2 Server1" tvg-logo="https://center.urlix.co/storage/images/fPtEoSRmJkNB1Qg9vBXNLLaMZVp6IW4LJT7JG01C.png" group-title="debugging/test CH 666",DEB 7 - ITV 2 (SERVER 1)
+#EXTVLCOPT:http-referrer=https://beescore.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+http://192.129.159.196:8020/watch/9ab7e7d9-6137-43eb-896e-bedd19178cc2/server1.m3u8
+
+#EXTINF:-1 tvg-id="ITV_3_Server1" tvg-name="ITV 3 Server1" tvg-logo="https://center.urlix.co/storage/images/3j3raQdkRm3CzC9lIyhrkSi82Oyshnipxl8osSmN.png" group-title="debugging/test CH 666",DEB 8 - ITV 3 (SERVER 2)
+#EXTVLCOPT:http-referrer=https://beescore.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+http://192.129.159.196:8020/watch/9ab7e7d9-6981-4f0c-ba2d-c8f97cfd064d/server1.m3u8
+
+#EXTINF:-1 tvg-id="ITV_4_Server1" tvg-name="ITV 4 Server1" tvg-logo="https://center.urlix.co/storage/images/D0SxPN7Cb6ONRdiMWBnrzrrzguKUSrsHDBQGyL5w.png" group-title="debugging/test CH 666",DEB 9 - ITV 2 (SERVER 2)
+#EXTVLCOPT:http-referrer=https://beescore.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+http://192.129.159.196:8020/watch/9ab7e7d9-87fa-4448-99e6-6fb0f1d319a3/server1.m3u8
+
+
 #EXTINF:-1 tvg-id="deb22" group-title="debugging/test CH 666", DEB 22
 http://starhub.pro/live/farhat-3379/67897-913379/3392.ts
 
@@ -937,77 +959,5 @@ http://starhub.pro/live/farhat-3379/67897-913379/3428.ts
 #EXTINF:-1 tvg-id="deb60" group-title="debugging/test CH 666", DEB 60
 http://starhub.pro/live/farhat-3379/67897-913379/3429.ts
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=859e0fc9638e4f7f848412736bcc8bb9:ff4fcc6c04f31a1eaced59d91940c9a7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="deb1", BBC ONE 1
-https://nlziet-live.akamaized.net/L22/6e958e41/3e8eb32a.isml/.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aef74d2bd07d4a8fb62c698bf837e7f6:0674de7571cd5047892f0012cf7c5238
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" group-title="deb1", BBC TWO 2
-https://nlziet-live.akamaized.net/L3/75825848/a684e34a.isml/.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9cc344f5df584c77b9f10d04b7281df7:37020f567d14e9bb8df8d1be0263c3a6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-three-uk.png" group-title="deb1", BBC THREE 3
-https://nlziet-live.akamaized.net/L12/4891aa65/2c23ee3a.isml/.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a76ba7bf50494381beca9e2f7e3be96f:c0a14394f5518ec810656323d3fe9903
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png" group-title="deb1", BBC FOUR 4
-https://nlziet-live.akamaized.net/L24/b7d8aaf5/cfe54783.isml/.mpd
-
-#EXTINF:-1 tvg-logo="https://lo1.in/uk/itv0.png" group-title="deb1", ITV 1 5
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a0763c867523cdae498b2ad5a8ed66c4:fbca9fa0d6d784be974170f82c155938
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/yfsmgtnygz/out/v1/272d43358d1f41feb4dc2e9c61733628/cenc.mpd
-
-#EXTINF:-1 tvg-id="ITV_1_Server1" tvg-name="ITV 1 Server1" tvg-logo="https://center.urlix.co/storage/images/tTZte39nNuAZCrToHC7k5ShgNYaa9CclIljf2onx.png" group-title="deb1",ITV 1 (Server1) 6
-#EXTVLCOPT:http-referrer=https://beescore.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-http://192.129.159.196:8020/watch/9ab7e7d9-46d5-4c18-82f2-4bb83ef7ebe0/server1.m3u8
-#EXTINF:-1 tvg-id="ITV_2_Server1" tvg-name="ITV 2 Server1" tvg-logo="https://center.urlix.co/storage/images/fPtEoSRmJkNB1Qg9vBXNLLaMZVp6IW4LJT7JG01C.png" group-title="deb1",ITV 2 (Server1) 7
-#EXTVLCOPT:http-referrer=https://beescore.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-http://192.129.159.196:8020/watch/9ab7e7d9-6137-43eb-896e-bedd19178cc2/server1.m3u8
-#EXTINF:-1 tvg-id="ITV_3_Server1" tvg-name="ITV 3 Server1" tvg-logo="https://center.urlix.co/storage/images/3j3raQdkRm3CzC9lIyhrkSi82Oyshnipxl8osSmN.png" group-title="deb1",ITV 3 (Server1) 8
-#EXTVLCOPT:http-referrer=https://beescore.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-http://192.129.159.196:8020/watch/9ab7e7d9-6981-4f0c-ba2d-c8f97cfd064d/server1.m3u8
-#EXTINF:-1 tvg-id="ITV_4_Server1" tvg-name="ITV 4 Server1" tvg-logo="https://center.urlix.co/storage/images/D0SxPN7Cb6ONRdiMWBnrzrrzguKUSrsHDBQGyL5w.png" group-title="deb1",ITV 4 (Server1) 9
-#EXTVLCOPT:http-referrer=https://beescore.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-http://192.129.159.196:8020/watch/9ab7e7d9-87fa-4448-99e6-6fb0f1d319a3/server1.m3u8
-
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/schedule-event/Soccer.jpg" group-title="deb1",World Cup Qualifying : Burundi vs Kenya (10/09/25 01:00PM) [ITV 1 UK] 10
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOIFFMTTYILSBAYCSELDIZKVYWKWJE5DWN3FNBSBOJJXE4SSCMARIRABI62VLZETE5L2N5ZA2AIGMVRWWEASCEMBSFADAUAEYZBQMR3WU4BWMMQWUKTTHQCAWUI/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/schedule-event/Soccer.jpg" group-title="deb1",Friendly : England vs Wales (10/09/25 06:45PM) [ITV 1 UK] 11
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOIUGY6DKKZWE46HSCYSOZNFOXCRLY3XKJRWOIJTIPBAEFVW64YRPNTWEEABCBSRQ5L2N5ZHOYDAHFQC67LBAVJQMDIDABKQG2TAMETQ/index.m3u8
-
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://mimipipi22.github.io/logo/png/itv-1-uk.png" group-title="deb1",ITV 1 UK 12
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOI3CABXA5DSDYHHSGYYCMDQKACMKE2TA2DRGMQWEMRBGQUSO2QIA4/index.m3u8
-
-#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://mimipipi22.github.io/logo/png/itv-2-uk.png" group-title="deb1",ITV 2 UK 13 
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOI3CABXA53SDYHHSGYYCMDQKAKMAI3DAZLSMB6WG2LSGF7CI3AHBI/index.m3u8
-
-#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-logo="https://mimipipi22.github.io/logo/png/itv-3-uk.png" group-title="deb1",ITV 3 UK 14
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOI3CABXA5TSDYHHSGYYCMDQKASMBBSWCMZBNMRG2NTUM4XCAPAGKY/index.m3u8
-
-#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://mimipipi22.github.io/logo/png/itv-4-uk.png" group-title="deb1",ITV 4 UK 15
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOI3CABXA4LSDYHHSGYYCMDQKA2MKIYDAND5MESWEYBANJ5CC2YGAY/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/schedule-event/Tv.jpg" group-title="deb1", [FOX USA] 16 
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOI2EE4TYYRBNMHDARKRLNIV4EDDKUZCMPZLOJ3GC4AAEIRDMNSVK4JQOEA2DIIBKGQIMUDROFDQN54GW4DNJUBQKUSRAQBVMMBXMZ2WOJ3CMB2A/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/schedule-event/Soccer.jpg" group-title="deb1",World Cup Qualifying : Burundi vs Kenya (10/09/25 01:00PM) [ITV 1 UK] 17
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOIFFMTTYILSBAYCSELDIZKVYWKWJE5DWN3FNBSBOJJXE4SSCMARIRABI62VLZETE5L2N5ZA2AIGMVRWWEASCEMBSFADAUAEYZBQMR3WU4BWMMQWUKTTHQCAWUI/index.m3u8
-
-#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-logo="https://mimipipi22.github.io/logo/png/bbc-four.png" group-title="deb1",BBC Four UK 18
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOIQAYLHAAZ5HY3XSZDZCMPBUEADAVVCSNDVNN3DIZTUMQXCM3YGKFLACUI/index.m3u8
-
-#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://mimipipi22.github.io/logo/png/bbc-one.png" group-title="deb1",BBC One UK 19
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOIQAYLHACR4FZSQY6QSDEPBAAYFAYXWK2LRMVYTGNL4GAVCC3KXBMBAK/index.m3u8
 
