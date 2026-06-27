@@ -847,25 +847,25 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts
 # =============================== DEBBUGGING/TEST ================================================================================================== #
 
 
-#EXTINF:-1 tvg-id="ITV_1_Server1" tvg-name="ITV 1 Server1" tvg-logo="https://center.urlix.co/storage/images/tTZte39nNuAZCrToHC7k5ShgNYaa9CclIljf2onx.png" group-title="debugging/test CH 666",DEB 6 - ITV 1 (SERVER 1)
+#EXTINF:-1 tvg-id="ITV_1_Server1" tvg-name="ITV 1 Server1" group-title="debugging/test CH 666",DEB 6 - ITV 1 (SERVER 1)
 #EXTVLCOPT:http-referrer=https://beescore.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-http://192.129.159.196:8020/watch/9ab7e7d9-46d5-4c18-82f2-4bb83ef7ebe0/server4.m3u8
+http://192.129.159.196:8020/watch/9ab7e7d9-46d5-4c18-82f2-4bb83ef7ebe0/server1.m3u8
 
-#EXTINF:-1 tvg-id="ITV_2_Server1" tvg-name="ITV 2 Server1" tvg-logo="https://center.urlix.co/storage/images/fPtEoSRmJkNB1Qg9vBXNLLaMZVp6IW4LJT7JG01C.png" group-title="debugging/test CH 666",DEB 7 - ITV 2 (SERVER 1)
+#EXTINF:-1 tvg-id="ITV_2_Server1" tvg-name="ITV 2 Server1"  group-title="debugging/test CH 666",DEB 7 - ITV 2 (SERVER 1)
 #EXTVLCOPT:http-referrer=https://beescore.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-http://192.129.159.196:8020/watch/9ab7e7d9-6137-43eb-896e-bedd19178cc2/server3.m3u8
+http://192.129.159.196:8020/watch/9ab7e7d9-6137-43eb-896e-bedd19178cc2/server1.m3u8
 
-#EXTINF:-1 tvg-id="ITV_3_Server1" tvg-name="ITV 3 Server1" tvg-logo="https://center.urlix.co/storage/images/3j3raQdkRm3CzC9lIyhrkSi82Oyshnipxl8osSmN.png" group-title="debugging/test CH 666",DEB 8 - ITV 3 (SERVER 2)
+#EXTINF:-1 tvg-id="ITV_3_Server1" tvg-name="ITV 3 Server1" group-title="debugging/test CH 666",DEB 8 - ITV 3 (SERVER 1)
 #EXTVLCOPT:http-referrer=https://beescore.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-http://192.129.159.196:8020/watch/9ab7e7d9-6981-4f0c-ba2d-c8f97cfd064d/server4.m3u8
+http://192.129.159.196:8020/watch/9ab7e7d9-6981-4f0c-ba2d-c8f97cfd064d/server1.m3u8
 
-#EXTINF:-1 tvg-id="ITV_4_Server1" tvg-name="ITV 4 Server1" tvg-logo="https://center.urlix.co/storage/images/D0SxPN7Cb6ONRdiMWBnrzrrzguKUSrsHDBQGyL5w.png" group-title="debugging/test CH 666",DEB 9 - ITV 2 (SERVER 2)
+#EXTINF:-1 tvg-id="ITV_4_Server1" tvg-name="ITV 4 Server1" group-title="debugging/test CH 666",DEB 9 - ITV 2 (SERVER 1)
 #EXTVLCOPT:http-referrer=https://beescore.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-http://192.129.159.196:8020/watch/9ab7e7d9-87fa-4448-99e6-6fb0f1d319a3/server4.m3u8
+http://192.129.159.196:8020/watch/9ab7e7d9-87fa-4448-99e6-6fb0f1d319a3/server1.m3u8
 
 
 #EXTINF:-1 tvg-id="deb22" group-title="debugging/test CH 666", DEB 22
