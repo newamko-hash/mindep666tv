@@ -1,6 +1,6 @@
 #EXTM3U
-url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" billed-msg="© 2026 root@mindep666⛔ || Premium = activated" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
-url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg" refresh="3600" billed-msg="© 2026 root@mindep666⛔ || Premium active = true"
+#EXTINF: url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" billed-msg="© 2026 root@mindep666⛔ || Premium = activated" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
+#EXTINF: url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg" refresh="3600" billed-msg="© 2026 root@mindep666⛔ || Premium active = true"
 
 
 
@@ -9,6 +9,48 @@ url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubuser
 
 
 #EXTINF:-1 group-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa World Cup 2026"
+
+#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-uid="aa8031e69d06310e555b70ebbc227b18",
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+
+#EXTINF:-1 tvg-uid="166fb973bde4f7fc2517b2fdd18dea37" data-source="Sportzx" tvg-id="portugalvscroatia0000foxoneaq" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa World Cup 2026",FOX ONE 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
+#EXTINF:-1 tvg-uid="e7db9d457e7674971e082eda6f4c5e2e" data-source="Sportzx" tvg-id="portugalvscroatia0000tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa World Cup 2026",TSN 1 FHD 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-uid="b3f7980e0e3d6dac06c2e757dad803be" data-source="Sportzx" tvg-id="portugalvscroatia0000itvsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa World Cup 2026",ITV 1 UK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
+
+
+#EXTINF:-1 tvg-uid="d9ab3e289a0bafae12f15e338adc2023" data-source="Sportzx" tvg-id="francevssweden2200itvsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa World Cup 2026",ITV 4 UK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12
+https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ffwqzsa0zr/out/v1/752ac25588ff4607b45f3876a8e89223/cenc.mpd
+
+#EXTINF:-1 tvg-uid="f20b6f28b2260ddcdad2fa0f7828e7e2" data-source="Sportzx" tvg-id="cotedivoirevsnorway1800telemundofhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png"  group-title="Fifa World Cup 2026", TELEMUNDO USA
+https://inproviszon.st/telemundo-usa.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
