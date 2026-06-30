@@ -10,314 +10,20 @@
 
 #EXTINF:-1 group-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa World Cup 2026"
 
-#EXTINF:-1 tvg-uid="166fb973bde4f7fc2517b2fdd18dea37" data-source="Sportzx" tvg-id="portugalvscroatia0000foxoneaq" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Portugal vs Croatia 00:00 (FOX ONE - AQ)
+
+
+
+
+#EXTINF:-1 tvg-uid="166fb973bde4f7fc2517b2fdd18dea37" data-source="Sportzx" tvg-id="portugalvscroatia0000foxoneaq" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa World Cup 2026",FOX SPORT 1 US 4K
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
-
-#EXTINF:-1 tvg-uid="aeaf23eb8666c155aca912f8c3d526bc" data-source="Sportzx" tvg-id="portugalvscroatia0000foxone4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Portugal vs Croatia 00:00 (FOX ONE 4K)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/t7uu8qfape/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
-
-
-
-#EXTINF:-1 tvg-uid="3ab059da98a326c3188dba20df9852b1" data-source="Sportzx" tvg-id="portugalvscroatia0000foxonefhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Portugal vs Croatia 00:00 (FOX ONE FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-
-
-
-#EXTINF:-1 tvg-uid="5d0cd38a63b6e081651307527714d2f6" data-source="Sportzx" tvg-id="portugalvscroatia0000fox4kalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Portugal vs Croatia 00:00 (FOX 4K  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/t7uu8qfape/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
-
-
-
-
-#EXTINF:-1 tvg-uid="aeaf23eb8666c155aca912f8c3d526bc" data-source="Sportzx" tvg-id="portugalvscroatia0000foxone4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Portugal vs Croatia 00:00 (FOX ONE 4K)
-https://cdn011.viaplus.site/fox4k-usa.m3u8
-
-
-
-#EXTINF:-1 tvg-uid="a4b42bdffba8e0baf0172034c92b090a" data-source="Sportzx" tvg-id="spainvsaustria2000foxonefhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Spain vs Austria 20:00 (FOX ONE FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-
-
-
-
-#EXTINF:-1 tvg-uid="fc27e7f894666417252b5aa70c73a9a5" data-source="Sportzx" tvg-id="spainvsaustria2000foxonehd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Spain vs Austria 20:00 (FOX ONE HD)
-https://cdn011.viaplus.site/fox-usa.m3u8
-#EXTINF:-1 tvg-uid="2c58a5b97c1f4008f56d14db4d68766f" data-source="Sportzx" tvg-id="spainvsaustria2000tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Spain vs Austria 20:00 (TSN SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-uid="a4b42bdffba8e0baf0172034c92b090a" data-source="Sportzx" tvg-id="spainvsaustria2000foxonefhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Spain vs Austria 20:00 (FOX ONE FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-#EXTINF:-1 tvg-uid="833a638577f7153ddc19155ddba21d97" data-source="Sportzx" tvg-id="spainvsaustria2000itv1fhdalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Spain vs Austria 20:00 (ITV 1 FHD  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
-https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
-#EXTINF:-1 tvg-uid="e2e0639adf40442a93b1fdc1d62a9cfa" data-source="Sportzx" tvg-id="spainvsaustria2000foxonealt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Spain vs Austria 20:00 (FOX ONE  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-#EXTINF:-1 tvg-uid="0d2bdaa185e339d5256c9df3c9dd2830" data-source="Sportzx" tvg-id="spainvsaustria2000fox4kalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Spain vs Austria 20:00 (FOX 4K  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/m5hvr8vyu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
-#EXTINF:-1 tvg-uid="f4fd2f760b47de0242adc1f53abe448c" data-source="Sportzx" tvg-id="spainvsaustria2000telemundousa" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Spain vs Austria 20:00 (TELEMUNDO  USA )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
-
-
-#EXTINF:-1 tvg-uid="339657f05a44cec121d6893568fa5fe0" data-source="Sportzx" tvg-id="spainvsaustria2000foxone4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Spain vs Austria 20:00 (FOX ONE 4K)
-https://cdn011.viaplus.site/fox4k-usa.m3u8
-#EXTINF:-1 tvg-uid="b5a738fd512f2aa6a2e1b2052dbf6f96" data-source="Sportzx" tvg-id="spainvsaustria2000fox4klive" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Spain vs Austria 20:00 (FOX 4K LIVE)
-https://cdn011.viaplus.site/fox4k-xyz.m3u8
-
-
-
-#EXTINF:-1 tvg-uid="d70d72947350748f2d0d196fbeb87b82" data-source="Sportzx" tvg-id="usavsbosnia0100foxsportshd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",USA vs Bosnia 01:00 (FOX SPORTS HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd
-
-#EXTINF:-1 tvg-uid="059343bd46b88eeccc38f19efffec11e" data-source="Sportzx" tvg-id="usavsbosnia0100dsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",USA vs Bosnia 01:00 (D Sports FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
-#EXTINF:-1 tvg-uid="d70d72947350748f2d0d196fbeb87b82" data-source="Sportzx" tvg-id="usavsbosnia0100foxsportshd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",USA vs Bosnia 01:00 (FOX SPORTS HD)
-https://nhjjhhjhjjhfjj.pages.dev/1782620425/1fcab3ef7aa54fcc96295a263a43a5e8/iszYy3vIf-W7MjE0bwjQeg46eYPpOuoJPeNqUMV03SY/fox-sports-1.m3u8
-#EXTINF:-1 tvg-uid="d70d72947350748f2d0d196fbeb87b82" data-source="Sportzx" tvg-id="usavsbosnia0100foxsportshd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",USA vs Bosnia 01:00 (FOX SPORTS HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-#EXTINF:-1 tvg-uid="49beaaccfb6224d3cea5020b213c098c" data-source="Sportzx" tvg-id="usavsbosnia0100tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",USA vs Bosnia 01:00 (TSN Sports FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
-https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-#EXTINF:-1 tvg-uid="9fe75f7fd8b3f1737126cba4f121c2f4" data-source="Sportzx" tvg-id="usavsbosnia0100foxsportsalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",USA vs Bosnia 01:00 (FOX SPORTS  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-#EXTINF:-1 tvg-uid="c7951e447de744593db6201c2d12d46a" data-source="Sportzx" tvg-id="usavsbosnia0100tsnsportsalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",USA vs Bosnia 01:00 (TSN SPORTS  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-
-
-#EXTINF:-1 tvg-uid="d2482de9f4c38f013eb1f521caebd6b8" data-source="Sportzx" tvg-id="usavsbosnia0100fs14klive" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",USA vs Bosnia 01:00 (FS1 4K LIVE)
-https://nhjjhhjhjjhfjj.pages.dev/1782620441/2b6f350f0f094078ad5d542024c0bbdc/5jGjRunnZertHWhMB4wqeuPH36ggz4BxRzaVpvamOmY/fox-sports-1-4k.m3u8
-
-
-
-
-#EXTINF:-1 tvg-uid="e299da6e5f1886cc94ef0f16bb19e162" data-source="Sportzx" tvg-id="spainvsaustria2000foxoneaq" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Spain vs Austria 20:00 (FOX ONE - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/hgpxfatexm/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-#EXTINF:-1 tvg-uid="dba0c94ad3d663cd213dc564fa2a46ea" data-source="Sportzx" tvg-id="spainvsaustria2000foxsports4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Spain vs Austria 20:00 (FOX SPORTS 4K)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m5hvr8vyu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
-
-
-#EXTINF:-1 tvg-uid="d39875994a4ac4ed301d1b35115fdb25" data-source="Sportzx" tvg-id="portugalvscroatia0000foxsportshd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Portugal vs Croatia 00:00 (FOX SPORTS HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd
-#EXTINF:-1 tvg-uid="d39875994a4ac4ed301d1b35115fdb25" data-source="Sportzx" tvg-id="portugalvscroatia0000foxsportshd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Portugal vs Croatia 00:00 (FOX SPORTS HD)
-https://cdn011.viaplus.site/fox-usa.m3u8
-#EXTINF:-1 tvg-uid="5aacdd1c18c3c7b4476e343339d5ecf1" data-source="Sportzx" tvg-id="portugalvscroatia0000foxsportsalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Portugal vs Croatia 00:00 (FOX SPORTS  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-#EXTINF:-1 tvg-uid="06fc40e5eda98439d5d62a680fd3c692" data-source="Sportzx" tvg-id="francevssweden2200foxsportsaq" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",France vs Sweden 22:00 (FOX SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/3eckcsaoqz/out/v1/e8f0a2204c5c4490b338a9c2165dd92a/cenc.mpd
-#EXTINF:-1 tvg-uid="49f410823d6c8b8758d25a5cb1fc1984" data-source="Sportzx" tvg-id="francevssweden2200foxsports4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",France vs Sweden 22:00 (FOX SPORTS 4K)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6164ea0967b4bbbb51fdd6c4f83a64f:b431d9ed821ca93df596168601ae5b00
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ucyzt0tvgp/out/v1/4ef90d78cd004a668bc0377f3884575b/cenc.mpd
-#EXTINF:-1 tvg-uid="2509e5b209bc4c680e7c36947fc39012" data-source="Sportzx" tvg-id="francevssweden2200foxsportshd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",France vs Sweden 22:00 (FOX SPORTS HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd
-#EXTINF:-1 tvg-uid="2509e5b209bc4c680e7c36947fc39012" data-source="Sportzx" tvg-id="francevssweden2200foxsportshd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",France vs Sweden 22:00 (FOX SPORTS HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-#EXTINF:-1 tvg-uid="5ddb2e03bae65bc5316e6d7c17de9f36" data-source="Sportzx" tvg-id="francevssweden2200foxsportsalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",France vs Sweden 22:00 (FOX SPORTS  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-#EXTINF:-1 tvg-uid="dcb58e4575c4d55fffa911b0cf8b9530" data-source="Sportzx" tvg-id="englandvsdrcongo1700foxsportsaq" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",England vs DR Congo 17:00 (FOX SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/3eckcsaoqz/out/v1/e8f0a2204c5c4490b338a9c2165dd92a/cenc.mpd
-
-
-#EXTINF:-1 tvg-uid="83505585738dd9c69f615b17dd1774c9" data-source="Sportzx" tvg-id="francevssweden2200fox4klive" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",France vs Sweden 22:00 (FOX 4K LIVE)
-https://nhjjhhjhjjhfjj.pages.dev/1782609979/a0fd3eaf7d474debb5c67e6153512f6a/OpZVlF7amSrM8YViIlYgv3bMgpBXOmdDyXdQvecmEdk/fox-sports-1-4k.m3u8
-
-
-
-#EXTINF:-1 tvg-uid="043ea4d9779665fd5246c25e5b1ae373" data-source="Sportzx" tvg-id="mexicovsecuador0200foxsports4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Mexico vs Ecuador 02:00 (FOX SPORTS 4K)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m5hvr8vyu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
-
-
-#EXTINF:-1 tvg-uid="3d9e83f222dca2818b883d6bd9075faf" data-source="Sportzx" tvg-id="mexicovsecuador0200fox4kalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Mexico vs Ecuador 02:00 (FOX 4K  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/m5hvr8vyu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
-
-
-#EXTINF:-1 tvg-uid="f9707a0b597090a509e551577be14257" data-source="Sportzx" tvg-id="mexicovsecuador0200fox4klive" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Mexico vs Ecuador 02:00 (FOX 4K LIVE)
-https://nhjjhhjhjjhfjj.pages.dev/1782615719/3042d307c04a4e44bdb3ab8999929e43/HsGGS83WG7ArEKLUyEMQ8HQWSZK6hJuksjUHH1BT0LI/fox4k-usa.m3u8
-
-
-
-#EXTINF:-1 tvg-uid="83d63e803c67283bb3628508a9fdb06e" data-source="Sportzx" tvg-id="englandvsdrcongo1700fox4klive" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",England vs DR Congo 17:00 (FOX 4K LIVE)
-https://nhjjhhjhjjhfjj.pages.dev/1782615793/63d9482ab223427ebcde310232efb7f8/3Y4VXypmgkMhqlg7ZuzR2-qTDc9lnjTjh7xCn1RMXug/fox-sports-1-4k.m3u8
-#EXTINF:-1 tvg-uid="0f1dd09b0e29b65af26554cb994f1cfa" data-source="Sportzx" tvg-id="englandvsdrcongo1700universofhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",England vs DR Congo 17:00 (UNIVERSO FHD)
-https://nhjjhhjhjjhfjj.pages.dev/1782615801/7025b13be35a4cc78bfaaab27f4a002a/2XNz8ewpM4NG23idQtc71dRtRrH9kmk1Z6FayCPPTZc/universo-usa.m3u8
-
-
-
-#EXTINF:-1 tvg-uid="509142e1497c8ceb4422bc03fc5d701c" data-source="Sportzx" tvg-id="cotedivoirevsnorway1800fox4kalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Cote d Ivoire vs Norway 18:00 (FOX 4K  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/t7uu8qfape/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
-#EXTINF:-1 tvg-uid="8d29a61472f747169f1e7e8017db5515" data-source="Sportzx" tvg-id="cotedivoirevsnorway1800foxonealt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Cote d Ivoire vs Norway 18:00 (FOX ONE  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-#EXTINF:-1 tvg-uid="d2fc0bc77b4bbbfda58ac69d224db6d4" data-source="Sportzx" tvg-id="cotedivoirevsnorway1800tsnsportsalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Cote d Ivoire vs Norway 18:00 (TSN SPORTS  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-uid="201e5b4d1a7987cc27321620bbdd245f" data-source="Sportzx" tvg-id="cotedivoirevsnorway1800telemundousa" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Cote d Ivoire vs Norway 18:00 (TELEMUNDO  USA )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
-
-
-
-#EXTINF:-1 tvg-uid="fa1998f28b460693c45e0ba28a784bae" data-source="Sportzx" tvg-id="cotedivoirevsnorway1800foxone4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Cote d Ivoire vs Norway 18:00 (FOX ONE 4K)
-https://inproviszon.st/fox4k-usa.m3u8
-#EXTINF:-1 tvg-uid="547eaf987de72ed6f056e51c95aa838b" data-source="Sportzx" tvg-id="cotedivoirevsnorway1800fox4klive" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Cote d Ivoire vs Norway 18:00 (FOX 4K LIVE)
-https://inproviszon.st/fox4k-usa.m3u8
-#EXTINF:-1 tvg-uid="f20b6f28b2260ddcdad2fa0f7828e7e2" data-source="Sportzx" tvg-id="cotedivoirevsnorway1800telemundofhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Cote d Ivoire vs Norway 18:00 (TELEMUNDO FHD)
-https://inproviszon.st/telemundo-usa.m3u8
-#EXTINF:-1 tvg-uid="099a589b17a5c10fa90080b18eda8143" data-source="Sportzx" tvg-id="cotedivoirevsnorway1800daznmundial" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Cote d Ivoire vs Norway 18:00 (DAZN MUNDIAL)
-https://inproviszon.st/daznmundial-es.m3u8
-
-
-
-#EXTINF:-1 tvg-uid="20593717cdc7cf848eed3b845b9debb0" data-source="Sportzx" tvg-id="belgiumvssenegal2100foxsports4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Belgium vs Senegal 21:00 (FOX SPORTS 4K)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m5hvr8vyu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
-
-
-
-
-#EXTINF:-1 tvg-uid="2d187a2662676c113599189bd80c5876" data-source="Sportzx" tvg-id="belgiumvssenegal2100fox4kalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Belgium vs Senegal 21:00 (FOX 4K  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/m5hvr8vyu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
-#EXTINF:-1 tvg-uid="490cea2258b033d397e8b40f3074f513" data-source="Sportzx" tvg-id="belgiumvssenegal2100tsnsportsalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Belgium vs Senegal 21:00 (TSN SPORTS  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-
-
-#EXTINF:-1 tvg-uid="d7c45f78fd0f62a4a97d6249620a679f" data-source="Sportzx" tvg-id="belgiumvssenegal2100telemundousa" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Belgium vs Senegal 21:00 (TELEMUNDO  USA )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
-#EXTINF:-1 tvg-uid="d248419499274c1fcbf8692069ec1757" data-source="Sportzx" tvg-id="belgiumvssenegal2100fox4klive" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Belgium vs Senegal 21:00 (FOX 4K LIVE)
-https://nhjjhhjhjjhfjj.pages.dev/1782620337/7e21316c36d541b9b677408f8a6db63a/lVFaXWqygHC-hqmKdVJqsqrwnDyhP6-cxUO-gQ9QoqA/fox4k-usa.m3u8
-
-
-
-
-#EXTINF:-1 tvg-uid="d7c45f78fd0f62a4a97d6249620a679f" data-source="Sportzx" tvg-id="belgiumvssenegal2100telemundousa" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="🟣SPORTZX FIFA WORLD CUP 2026🟣",Belgium vs Senegal 21:00 (TELEMUNDO  USA )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-uid="166fb973bde4f7fc2517b2fdd18dea37" data-source="Sportzx" tvg-id="portugalvscroatia0000foxoneaq" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa World Cup 2026",FOX ONE 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-
-#EXTINF:-1 tvg-uid="e7db9d457e7674971e082eda6f4c5e2e" data-source="Sportzx" tvg-id="portugalvscroatia0000tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa World Cup 2026",TSN 1 FHD 1
+#EXTINF:-1 tvg-uid="e7db9d457e7674971e082eda6f4c5e2e" data-source="Sportzx" tvg-id="portugalvscroatia0000tsnsportsfhd" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Fifa World Cup 2026",TSN 1 CANADA FHD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:-1 tvg-uid="b3f7980e0e3d6dac06c2e757dad803be" data-source="Sportzx" tvg-id="portugalvscroatia0000itvsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa World Cup 2026",ITV 1 UK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
-
-
-#EXTINF:-1 tvg-uid="d9ab3e289a0bafae12f15e338adc2023" data-source="Sportzx" tvg-id="francevssweden2200itvsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa World Cup 2026",ITV 4 UK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12
-https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ffwqzsa0zr/out/v1/752ac25588ff4607b45f3876a8e89223/cenc.mpd
-
-#EXTINF:-1 tvg-uid="f20b6f28b2260ddcdad2fa0f7828e7e2" data-source="Sportzx" tvg-id="cotedivoirevsnorway1800telemundofhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png"  group-title="Fifa World Cup 2026", TELEMUNDO USA
-https://inproviszon.st/telemundo-usa.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="4fba21403a39c68573882366b84b25d4",TSN 1 CANADA FHD
+#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="4fba21403a39c68573882366b84b25d4",TSN 1 CANADA FHD (ALT)
 http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120273.ts
 #EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="dc230100b99e8c864b751a9e1bd2fea1",TSN 2 CANADA FHD
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/1622
@@ -329,6 +35,7 @@ http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120264.ts
 
 #EXTINF:-1 tvg-uid="9e38f5b791a15cbec64d78e197be37e0" data-source="Notnguyen" tvg-chno="20" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup]" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Fifa World Cup 2026", [FEED] BBC 1 UK
 http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120265.ts
+
 #EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",[FEED] ITV 1 UK
 http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120268.ts
 
@@ -337,15 +44,6 @@ http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120266.ts
 
 #EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",[FEED] FOX SPORTS 1 US
 http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120267.ts
-
-#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",[FEED] FOX SPORTS 2 US
-http://starhub.pro/live/farhat-3379/67897-913379/3421.ts
-
-#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" tvg-uid="9d5b7e47dc9d44d70733ec87cc3ca99a", [FEED] TVRI SPORT
-https://digital.tsender57.workers.dev/bc82b623e5/play/a05u/index.m3u8
-
-#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" tvg-uid="7ddf26fc08c09083d2d89223c2f69922",[FEED] TVRI NASIONAL
-https://digital.tsender57.workers.dev/7a02027004/play/a03t/index.m3u8
 
 #EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="63fc442a4b5423c6fa4ab6298815b38f", World Cup TV Philippines
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
@@ -371,14 +69,14 @@ https://fawatv.online/live/F2E62CEFFF6C6F88C237BD9DF4957C35/667.m3u8
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc379/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ITV_1_Server1" tvg-name="ITV 1 Server1"  tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Fifa World Cup 2026",ITV 1 UnitedKingdom (SERVER 2)
-#EXTVLCOPT:http-referrer=https://beescore.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-http://192.129.159.196:8020/watch/9ab7e7d9-46d5-4c18-82f2-4bb83ef7ebe0/server1.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
 
 #EXTINF:-1 tvg-id="ITV_4_Server1" tvg-name="ITV 4 Server1"  tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Fifa World Cup 2026",ITV 4 UnitedKingdom (SERVER 2)
-#EXTVLCOPT:http-referrer=https://beescore.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-http://192.129.159.196:8020/watch/9ab7e7d9-87fa-4448-99e6-6fb0f1d319a3/server1.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12
+https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ffwqzsa0zr/out/v1/752ac25588ff4607b45f3876a8e89223/cenc.mpd
 
 #EXTINF:-1 data-source="Manual"  group-title="Fifa World Cup 2026" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" tvg-uid="348b0afc71aa32a05e347185c8895e3d",NOWSPORTS 616 UHD 4K
 http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
@@ -418,6 +116,32 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
