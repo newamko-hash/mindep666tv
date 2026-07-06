@@ -62,7 +62,7 @@ https://inproviszon.st/bein12fr-xyz.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://inproviszon.st/telemundo-xyz-waUvqaAACr.m3u8
 
-#EXTINF:-1 tvg-uid="ffe4a2858d382d24af3d2a183f992" data-source="LiveTVluar" tvg-chno="163" tvg-id="FOXSports2.MX" tvg-name="FOX Sports 2" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Fifa World Cup 2026",FOX Sports 2 (FORWARDED)
+#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="3a724ea71b8486260c47feeb9773c",FOX Sport 2 (Forwarded)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20Sports%202&code=mx&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20Sports%202&code=mx&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
