@@ -62,6 +62,11 @@ https://inproviszon.st/bein12fr-xyz.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://inproviszon.st/telemundo-xyz-waUvqaAACr.m3u8
 
+#EXTINF:-1 tvg-uid="ffe4a2858d382d24af3d2a183f902692" data-source="LiveTVluar" tvg-chno="163" tvg-id="FOXSports2.MX" tvg-name="FOX Sports 2" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="debugging/test CH 666",FOX Sports 2 US (FORWARDED)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20Sports%202&code=mx&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20Sports%202&code=mx&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5c5/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWM1OjE3ODMzNTM4NTIzMTk6Y2RubGl2ZXR2LnR2OjliMTdhMzEwMWQ3MjVkNzkuZjAxYWQwYWY4N2IyMzExNDEyZmZlY2EzOWI0ZTFlZDhiZTFkODQ1MDU3ODAzMGM4N2NkNzFiZDUwYzQwYmRhYQ|x-forwarded-for:109.236.88.82
 
 
 
