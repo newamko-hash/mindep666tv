@@ -20,12 +20,6 @@ url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubuser
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
-#EXTINF:-1 tvg-uid="166fb973bde4f7fc2517b2fdd18dea37" data-source="Sportzx" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Fifa World Cup 2026",FOX SPORT FHD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
-
 #EXTINF:-1 data-source="Manual" tvg-uid="9d5b7e47dc9d44d70733ec87cc3ca99a" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg",TVRISPORT Max Stream FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -66,12 +60,20 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
 
 
 
+#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="9d5b7e47dc9d44d70733ec87cc3ca99a",TVRI Folaplay HD
+https://img-80t.pages.dev/fola.m3u8
 
 #EXTINF:-1 tvg-uid="e5edcd33ad4c76c13e6e052c9b8ed07f" data-source="Cdnsports" tvg-name="Telemundo FHD MX" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg",TELEMUNDO FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf029/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMDI5OjE3ODM0NzU0ODAwODY6Y2RubGl2ZXR2LnR2OjQwNDMxNzgyODBmMzgyMDguNzZiMmYzOGY1NjkyOWY5YjVkZjMyMTkxODU4YjdhN2I3ZGY0NTQyMzMzNzVjNDM0MTA5MTQ5NzY1Nzg3ODdjZA
+
+#EXTINF:-1 tvg-uid="166fb973bde4f7fc2517b2fdd18dea37" data-source="Sportzx" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Fifa World Cup 2026",FOX US
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
 
 #EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg",FOX SPORTS 1 US
 http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120267.ts
@@ -82,8 +84,7 @@ http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120267.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5c5/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWM1OjE3ODMzNTM4NTIzMTk6Y2RubGl2ZXR2LnR2OjliMTdhMzEwMWQ3MjVkNzkuZjAxYWQwYWY4N2IyMzExNDEyZmZlY2EzOWI0ZTFlZDhiZTFkODQ1MDU3ODAzMGM4N2NkNzFiZDUwYzQwYmRhYQ|x-forwarded-for:109.236.88.82
 
-#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="9d5b7e47dc9d44d70733ec87cc3ca99a",TVRI Folaplay HD
-https://img-80t.pages.dev/fola.m3u8
+
 
 
 
