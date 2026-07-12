@@ -19,6 +19,13 @@ url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubuser
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
+#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="9d5b7e47dc9d44d70733ec87cc3ca99a",TVRI Max Stream FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efe538648aad30c9893edf1a69eb8c8e:fe9b77088a67777af435c3fa5f1bbdd0
+https://tencent-css.byteplaycdn.com/64f67f00b31f5e132b26129dee463278/6A538256/Content/DASH_ENC2/Live/channel(tselwc1)/master.mpd
+
 #EXTINF:-1 tvg-uid="e7db9d457e7674971e082eda6f4c5e2e" data-source="Sportzx" tvg-id="tsnfix" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Fifa World Cup 2026",TSN1 CANADA FHD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
@@ -66,6 +73,10 @@ http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120267.ts
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20Sports%202&code=mx&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5c5/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWM1OjE3ODMzNTM4NTIzMTk6Y2RubGl2ZXR2LnR2OjliMTdhMzEwMWQ3MjVkNzkuZjAxYWQwYWY4N2IyMzExNDEyZmZlY2EzOWI0ZTFlZDhiZTFkODQ1MDU3ODAzMGM4N2NkNzFiZDUwYzQwYmRhYQ|x-forwarded-for:109.236.88.82
+
+#EXTINF:-1 data-source="Manual" group-title="Fifa World Cup 2026" tvg-logo="tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="9d5b7e47dc9d44d70733ec87cc3ca99a",TVRI Folaplay
+https://img-80t.pages.dev/fola.m3u8
+
 
 
 
