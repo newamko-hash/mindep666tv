@@ -485,13 +485,6 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
 
-#EXTINF:-1 tvg-uid="564716f825e0b7408d0586ffca0ec4b0" data-source="TV_Amrik" tvg-chno="44" tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="SPORTS TV",ESPN
-http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1 tvg-uid="1ba2123e6ed37d45df44dcfa067450a5" data-source="TV_Amrik" tvg-chno="46" tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="SPORTS TV",ESPN U
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:-1 tvg-uid="8ecfcdaae27f18e25d15a3cce8ca7728" data-source="TV_Amrik" tvg-chno="47" tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="SPORTS TV",ESPN2
-http://41.223.30.230/ESPN2/index.m3u8
-
 #EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://object-streamo.emonaja.com/img/tntsports.png" group-title="SPORTS TV", TNT Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
