@@ -383,15 +383,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey.dantetivi.workers.dev/
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 tvg-id="9999" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png" group-title="SPORTS TV",Sportstars 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=9999
-https://ayo.maling.pl/Vision/index.mpd
-
 #EXTINF:-1 tvg-id="205" tvg-logo="https://www.visionplus.id/images/repository/691/691-LOGO-m.png" group-title="SPORTS TV",Sportstars 4
 #EXTVLCOPT:http-referrer=https://m.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
@@ -494,37 +485,7 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
 
-#EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://object-streamo.emonaja.com/img/tntsports.png" group-title="SPORTS TV", TNT Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd
 
-#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://object-streamo.emonaja.com/img/tntsports.png" group-title="SPORTS TV", TNT Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd
-
-#EXTINF:-1 tvg-name="TNT Sports 3" tvg-logo="https://object-streamo.emonaja.com/img/tntsports.png" group-title="SPORTS TV", TNT Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd
-
-#EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://object-streamo.emonaja.com/img/tntsports.png" group-title="SPORTS TV", TNT Sports 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd
 
 
 
