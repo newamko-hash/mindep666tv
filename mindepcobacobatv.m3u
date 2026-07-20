@@ -430,7 +430,21 @@ https://tvratu.my.id/vid/index.mpd?id=9182
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=9183
 https://tvratu.my.id/vid/index.mpd?id=9183
 
-
+#EXTINF:-1 tvg-uid="f84815149755dc6252cb6343abedcdde" data-source="LiveTVluar" tvg-chno="438" tvg-id="TSN2.CA" tvg-name="TSN 2" tvg-logo="https://i.imgur.com/odCNBZP.png" group-title="SPORTS TV",TSN 2
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202&code=ca&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202&code=ca&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc173/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTczOjE3ODQ1NjU1NTQwMDc6Y2RubGl2ZXR2LnR2OjFkYzM4Y2M0ODJmOWY5OTAuNDgxZTg4ZGZhOGRmNjc5ZWE3Y2FhMDU5NzNhNjE3MmYwZmUwMWRlYjgzY2YyMjY2MDRhMmNjYzQ4NWJhYWYyNQ|x-forwarded-for:109.236.88.82
+#EXTINF:-1 tvg-uid="c881e4c501bfb271d91bbee80737cdf1" data-source="LiveTVluar" tvg-chno="439" tvg-id="TSN3.CA" tvg-name="TSN 3" tvg-logo="https://i.imgur.com/odCNBZP.png" group-title="SPORTS TV",TSN 3
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203&code=ca&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203&code=ca&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc176/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc2OjE3ODQ1NjU1NTQ3MTA6Y2RubGl2ZXR2LnR2Ojk4YmUxYWRlNjQ5YmM5NDMuNTZiY2Q4OTdhYTM1MmViNTdjOWFmZTY1OGJmY2Q2N2E2MjdiYTgwNzlkOTRmYjNiNDEyYjFmYzVlYmY0ODIxYg|x-forwarded-for:109.236.88.82
+#EXTINF:-1 tvg-uid="db8409b538b302691bd29f03e5ab8867" data-source="LiveTVluar" tvg-chno="440" tvg-id="TSN4.CA" tvg-name="TSN 4" tvg-logo="https://i.imgur.com/odCNBZP.png" group-title="SPORTS TV",TSN 4
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204&code=ca&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204&code=ca&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc177/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc3OjE3ODQ1NjU1NTU0MzU6Y2RubGl2ZXR2LnR2OjU1NzI2MzNmZTMxM2E3NDQuYjU0NTFjZTUzMTkxNzM1OTQzNTIxMmQwOGM1ZjU1OWM0N2Q0NDRhYzMwNzIwMDRlZjg2NGY5OGIxYmNhY2MyNg|x-forwarded-for:109.236.88.82
 
 
 #EXTINF:-1 tvg-name="EUROSPORT 1" tvg-logo="https://i.imgur.com/s4jDnJh.png" group-title="SPORTS TV", Eurosport 1
