@@ -51,9 +51,11 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/
 #EXTINF:-1 tvg-uid="6cbbf02a979b39c4c43ad4f126b7a6ae" data-source="April2027" group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",PREMIER SPORTS 2 4K
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/833945.m3u8
 
+#EXTINF:-1 tvg-uid="6b75b029d185845193727e696c07205b" data-source="April2027" group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",PREMIER SPORTS 1 Alt
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/833699.m3u8
+#EXTINF:-1 tvg-uid="11d2ff37be293a37dcb45f376597771c" data-source="April2027" group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",PREMIER SPORTS 2 Alt
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/833700.m3u8
 
-#EXTINF:-1 tvg-uid="1779f1723f3e9b5d9edc3323f02a26de" data-source="Mac Portal 5" group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/premierleague.png",PREMIER LEAGUE HIGHLIGHTS
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/1038923.m3u8
 
 #EXTINF:-1 tvg-uid="75c5b5ecb377f582f6e9f62d46a96c89" data-source="Cdnsports" tvg-name="FOX US" group-title="SPORTS",FOX US
 #KODIPROP:inputstream.adaptive.manifest_type=dash
