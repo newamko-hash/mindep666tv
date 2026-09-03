@@ -33,6 +33,10 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gdwDYcl.png" group-title="SPORTS",SKY SPORT PREMIER LEAGUE HD
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
 #EXTINF:-1 tvg-uid="92da02ac5f672c10b917e8af15af0e6a" data-source="Sports7November" group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png",SKY SPORT UK
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312031.m3u8
 #EXTINF:-1 tvg-uid="350c49c3849c8bf6a5d96af79195345e" data-source="Mac Portal 5" group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/PremierLeague.png",Premier League+ 
