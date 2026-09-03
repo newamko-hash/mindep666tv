@@ -46,10 +46,19 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1314078.m3u8
 #EXTINF:-1 tvg-uid="9fd134d7a66e5701134cb4608849ed41" data-source="Macportal1" group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 3.png",HUB PREMIER 3 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1314079.m3u8
-#EXTINF:-1 tvg-uid="619f38de63f77f0fb46a65c99c4c96a2" data-source="April2027" group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",PREMIER SPORTS 1 4K
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/833946.m3u8
-#EXTINF:-1 tvg-uid="6cbbf02a979b39c4c43ad4f126b7a6ae" data-source="April2027" group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",PREMIER SPORTS 2 4K
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/833945.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1444f4235529f183f0a5a486befe9cdb":"e5e3fec67a1bb3472a2089c8a0a2557f"}
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI" group-title="SPORTS",PREMIER SPORTS 1
+http://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI" group-title="SPORTS",PREMIER SPORTS 2
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
 #EXTINF:-1 tvg-uid="6b75b029d185845193727e696c07205b" data-source="April2027" group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",PREMIER SPORTS 1 Alt
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/833699.m3u8
