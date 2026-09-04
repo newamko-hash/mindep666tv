@@ -40,15 +40,9 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312031.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gdwDYcl.png" group-title="SPORTS",SKY SPORT PREMIERLEAGUE
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
+#EXTINF:-1 tvg-uid="471fd090f63077b685afbb0a1f5ae453" data-source="Mac Portal 10" group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/CARIBBEAN/CARIBBEAN/USA NETWORK.png",USA NETWORK
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1100008.m3u8
 
-#EXTINF:-1 tvg-uid="350c49c3849c8bf6a5d96af79195345e" data-source="Mac Portal 5" group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/PremierLeague.png",Premier League+ 
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/2136149.m3u8
-#EXTINF:-1 tvg-uid="c5d2b7e4ac88f2ac3637ca5b1440f830" data-source="Macportal1" group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png",HUB PREMIER 1 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1314077.m3u8
-#EXTINF:-1 tvg-uid="781cc672410ede5459165bb1704c6583" data-source="Macportal1" group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 2.png",HUB PREMIER 2 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1314078.m3u8
-#EXTINF:-1 tvg-uid="9fd134d7a66e5701134cb4608849ed41" data-source="Macportal1" group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 3.png",HUB PREMIER 3 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1314079.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -62,11 +56,6 @@ http://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/vwq77hfgzw/o
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI" group-title="SPORTS",PREMIER SPORTS 2
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-#EXTINF:-1 tvg-uid="6b75b029d185845193727e696c07205b" data-source="April2027" group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",PREMIER SPORTS 1 Alt
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/833699.m3u8
-#EXTINF:-1 tvg-uid="11d2ff37be293a37dcb45f376597771c" data-source="April2027" group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",PREMIER SPORTS 2 Alt
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/833700.m3u8
 
 
 #EXTINF:-1 tvg-uid="75c5b5ecb377f582f6e9f62d46a96c89" data-source="Cdnsports" tvg-name="FOX US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png" group-title="SPORTS",FOX US
